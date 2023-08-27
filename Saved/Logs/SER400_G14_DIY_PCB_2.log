@@ -12241,3 +12241,183 @@ Script Stack (0 frames) :
 [2023.08.19-18.46.49:946][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.19-18.46.53:737][410]LogSlate: Window 'Levels' being destroyed
 [2023.08.19-18.46.53:757][410]LogSlate: Window 'Levels' being destroyed
+[2023.08.19-18.56.31:611][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.19-18.56.31:614][663]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.032
+[2023.08.19-18.56.31:614][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/drill/sfx/correctSfx] ([1] browsable assets)...
+[2023.08.19-18.56.31:617][663]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/drill/sfx/correctSfx.correctSfx]
+[2023.08.19-18.56.31:617][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/drill/sfx/correctSfx]
+[2023.08.19-18.56.31:624][663]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/drill/sfx/correctSfx_Auto7
+[2023.08.19-18.56.31:624][663]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/correctSfx_Auto7BD39BA1F4BDE5837B5D15E8BF4E7C60B.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/Autosaves/Game/drill/sfx/correctSfx_Auto7.uasset'
+[2023.08.19-18.56.31:625][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/drill/sfx/errorSfx] ([1] browsable assets)...
+[2023.08.19-18.56.31:628][663]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/drill/sfx/errorSfx.errorSfx]
+[2023.08.19-18.56.31:628][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/drill/sfx/errorSfx]
+[2023.08.19-18.56.31:630][663]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/drill/sfx/errorSfx_Auto7
+[2023.08.19-18.56.31:631][663]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/errorSfx_Auto76456FC1B41BC01F9C10C849D4B61A914.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/Autosaves/Game/drill/sfx/errorSfx_Auto7.uasset'
+[2023.08.19-18.56.31:631][663]LogFileHelpers: Auto-saving content packages took 0.017
+[2023.08.19-19.06.32:170][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.08.19-19.06.32:172][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.029
+[2023.08.19-19.16.32:703][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.08.19-19.16.32:706][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.030
+[2023.08.19-19.18.09:018][ 36]Cmd: CLOSE_SLATE_MAINFRAME
+[2023.08.19-19.18.09:042][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.08.19-19.18.09:069][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.08.19-19.18.24:842][ 36]LogSlate: Window 'Save Content' being destroyed
+[2023.08.19-19.18.24:856][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-19.18.58:810][ 36]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.19-19.18.58:882][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.08.19-19.18.58:910][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.19-19.18.58:929][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-19.18.58:962][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.08.19-19.18.58:993][ 36]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap3
+[2023.08.19-19.18.58:994][ 36]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/VRTemplateMap356AB5C3B4439D806CEDEDA99AA87BD36.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/VRTemplate/Maps/VRTemplateMap3.umap'
+[2023.08.19-19.18.59:002][ 36]LogFileHelpers: Saving map 'VRTemplateMap3' took 0.171
+[2023.08.19-19.19.06:618][ 36]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.19-19.19.06:695][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.08.19-19.19.06:726][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.19-19.19.06:741][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-19.19.06:772][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.08.19-19.19.06:812][ 36]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap4
+[2023.08.19-19.19.06:812][ 36]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/VRTemplateMap4A81C5FB042DCB9B82FCE3C9CEFBF9917.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/VRTemplate/Maps/VRTemplateMap4.umap'
+[2023.08.19-19.19.06:819][ 36]LogFileHelpers: Saving map 'VRTemplateMap4' took 0.176
+[2023.08.19-19.19.13:139][ 36]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.19-19.19.13:207][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.08.19-19.19.13:239][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.19-19.19.13:255][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-19.19.13:287][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.08.19-19.19.13:327][ 36]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/5
+[2023.08.19-19.19.13:327][ 36]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/51112DCED49615A77A789F487D2B8039C.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/VRTemplate/Maps/5.umap'
+[2023.08.19-19.19.13:335][ 36]LogFileHelpers: Saving map '5' took 0.175
+[2023.08.19-19.19.25:051][ 36]LogContentBrowser: Attempting asset rename: VRTemplateMap4 -> VRTemplateMap4
+[2023.08.19-19.19.31:313][ 36]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.19-19.19.31:391][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.08.19-19.19.31:421][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.19-19.19.31:436][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-19.19.31:472][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.08.19-19.19.31:511][ 36]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap6
+[2023.08.19-19.19.31:511][ 36]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/VRTemplateMap61F28CB1B44D64D3ED00C629E76E69028.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/VRTemplate/Maps/VRTemplateMap6.umap'
+[2023.08.19-19.19.31:519][ 36]LogFileHelpers: Saving map 'VRTemplateMap6' took 0.182
+[2023.08.19-19.19.39:050][ 36]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.19-19.19.39:120][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.19-19.19.39:153][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.19-19.19.39:169][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-19.19.39:201][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.08.19-19.19.39:241][ 36]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap7
+[2023.08.19-19.19.39:241][ 36]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/VRTemplateMap727F92EF04F423BB5134121B7C6B0458A.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/VRTemplate/Maps/VRTemplateMap7.umap'
+[2023.08.19-19.19.39:249][ 36]LogFileHelpers: Saving map 'VRTemplateMap7' took 0.177
+[2023.08.19-19.19.39:249][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/drill/sfx/correctSfx" FILE="D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/drill/sfx/correctSfx.uasset" SILENT=true
+[2023.08.19-19.19.39:258][ 36]LogSavePackage: Moving output files for package: /Game/drill/sfx/correctSfx
+[2023.08.19-19.19.39:258][ 36]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/correctSfx5372FA4B4DE2DA1812B93F8D694A4FB2.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/drill/sfx/correctSfx.uasset'
+[2023.08.19-19.19.39:259][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/drill/sfx/errorSfx" FILE="D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/drill/sfx/errorSfx.uasset" SILENT=true
+[2023.08.19-19.19.39:261][ 36]LogSavePackage: Moving output files for package: /Game/drill/sfx/errorSfx
+[2023.08.19-19.19.39:261][ 36]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Saved/errorSfx0AAE11774D8B10583325958CD4062ECA.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHub/Content/drill/sfx/errorSfx.uasset'
+[2023.08.19-19.19.39:274][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 1:14 min (total: 4:02 min)
+[2023.08.19-19.19.39:274][ 36]LogStall: Shutdown...
+[2023.08.19-19.19.39:282][ 36]LogStall: Shutdown complete.
+[2023.08.19-19.19.39:304][ 36]LogSlate: Window 'VRTemplateMap' being destroyed
+[2023.08.19-19.19.39:350][ 36]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:350][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:436][ 36]LogSlate: Window 'SER400_G14_DIY_PCB - Unreal Editor' being destroyed
+[2023.08.19-19.19.39:658][ 36]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.19-19.19.39:658][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap4.VRTemplateMap4
+[2023.08.19-19.19.39:658][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap3.VRTemplateMap3
+[2023.08.19-19.19.39:658][ 36]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/drill/sfx/errorSfx.errorSfx
+[2023.08.19-19.19.39:658][ 36]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/drill/sfx/correctSfx.correctSfx
+[2023.08.19-19.19.39:658][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/5.5
+[2023.08.19-19.19.39:658][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap6.VRTemplateMap6
+[2023.08.19-19.19.39:658][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap7.VRTemplateMap7
+[2023.08.19-19.19.39:665][ 37]Cmd: QUIT_EDITOR
+[2023.08.19-19.19.39:665][ 37]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.19-19.19.39:688][ 37]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.19-19.19.39:688][ 37]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.19-19.19.39:688][ 37]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.19-19.19.39:697][ 37]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.08.19-19.19.39:697][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:697][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:697][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:697][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:698][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap_Auto2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:698][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:698][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap_Auto3, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:698][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:699][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap_Auto4, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:699][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:699][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap_Auto5, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:699][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:699][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:699][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.39:700][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap3, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.39:700][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.45:685][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap4, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.45:686][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.45:686][ 37]LogWorld: UWorld::CleanupWorld for 5, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.45:686][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.45:686][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap6, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.45:686][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.45:686][ 37]LogWorld: UWorld::CleanupWorld for VRTemplateMap7, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-19.19.45:686][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-19.19.45:686][ 37]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.19-19.19.45:686][ 37]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: === Critical error: ===
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: 
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: 
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x00007ffbd09a1720 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38d00 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38d00 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38d00 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2300 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd28a0 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38d00 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2300 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd29e0 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd28a0 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd1f40 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd23a0 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2800 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38d00 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a59925c80 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a59926180 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a599262c0 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a59926040 UnknownFunction []
+[2023.08.19-19.19.45:686][ 37]LogWindows: Error: [Callstack] 0x0000085a59926400 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38d00 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38a00 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38a00 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd1fe0 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37500 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37500 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37500 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac37800 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38a00 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5ac38a00 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: [Callstack] 0x0000085a5abd2940 UnknownFunction []
+[2023.08.19-19.19.45:687][ 37]LogWindows: Error: 
