@@ -1538,3 +1538,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.09-07.38.43:421][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 951 ms)
 [2023.09.09-07.38.43:426][771]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.09.09-07.38.43:426][771]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.09.09-07.39.17:092][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-07.39.17:153][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.09-07.39.17:164][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.09.09-07.39.17:239][277]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.09.09-07.39.17:240][277]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMap27EA99C84D1425B350216F8307D01C3C.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.09.09-07.39.17:245][277]LogFileHelpers: No new changes to save!
+[2023.09.09-07.39.17:245][277]LogFileHelpers: Saving map 'VRTemplateMap' took 0.092
+[2023.09.09-07.39.17:250][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 1.11 sec)
+[2023.09.09-07.39.17:253][277]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.09.09-07.39.17:253][277]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
