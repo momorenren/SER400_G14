@@ -1412,3 +1412,4 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.09.09-06.18.12:310][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.09-06.18.12:310][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.09-06.18.12:887][  4]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.09-06.18.23:122][ 98]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
