@@ -1393,3 +1393,159 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.09-06.24.56:582][  0]LogAutomationController: Ignoring very large delta of 16859645.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.09.09-06.24.56:799][  3]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.09.09-06.25.01:799][ 18]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2023.09.09-06.25.35:189][119]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2023.09.09-06.25.39:148][308]LogViewport: Scene viewport resized to 1427x882, mode Windowed.
+[2023.09.09-06.25.39:152][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.25.39:152][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.25.47:964][831]LogViewport: Scene viewport resized to 1281x774, mode Windowed.
+[2023.09.09-06.25.48:857][883]LogViewport: Scene viewport resized to 1427x882, mode Windowed.
+[2023.09.09-06.25.48:863][883]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.25.48:863][883]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.25.50:852][  1]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.09-06.25.51:001][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.25.51:035][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.25.54:169][198]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chemical_station/Container/container_collider_2.container_collider_2
+[2023.09.09-06.25.54:169][198]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.25.54:169][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-06.25.54:798][198]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.09-06.26.00:388][530]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.09-06.26.00:389][530]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.09-06.26.04:347][767]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.09-06.26.07:613][963]BlueprintLog: New page: Compile container_collider_2
+[2023.09.09-06.26.07:651][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.09.09-06.26.08:360][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-06.26.08:431][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chemical_station/Container/container_collider_2" FILE="../../../../../../SER400_G14/Content/Chemical_station/Container/container_collider_2.uasset" SILENT=true
+[2023.09.09-06.26.08:437][998]LogPackageLocalizationCache: Processed 49 localized package path(s) for 1 prioritized culture(s) in 0.005402 seconds
+[2023.09.09-06.26.08:439][998]LogSerialization: UsePackageTrailer: 'true'
+[2023.09.09-06.26.08:442][998]LogSavePackage: Moving output files for package: /Game/Chemical_station/Container/container_collider_2
+[2023.09.09-06.26.08:442][998]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/container_collider_21453517245ABF7B3EA1C0C8F84A86695.tmp' to '../../../../../../SER400_G14/Content/Chemical_station/Container/container_collider_2.uasset'
+[2023.09.09-06.26.08:451][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms
+[2023.09.09-06.26.08:454][998]AssetCheck: New page: Asset Save: container_collider_2
+[2023.09.09-06.26.08:454][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Chemical_station/Container/container_collider_2.container_collider_2
+[2023.09.09-06.26.09:567][ 65]LogViewport: Scene viewport resized to 1145x846, mode Windowed.
+[2023.09.09-06.26.25:348][ 10]BlueprintLog: New page: Compile container_collider_2
+[2023.09.09-06.26.25:387][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.09-06.26.25:903][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-06.26.25:970][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chemical_station/Container/container_collider_2" FILE="../../../../../../SER400_G14/Content/Chemical_station/Container/container_collider_2.uasset" SILENT=true
+[2023.09.09-06.26.25:975][ 34]LogSavePackage: Moving output files for package: /Game/Chemical_station/Container/container_collider_2
+[2023.09.09-06.26.25:975][ 34]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/container_collider_2334948424B4B947E0122529B4025B785.tmp' to '../../../../../../SER400_G14/Content/Chemical_station/Container/container_collider_2.uasset'
+[2023.09.09-06.26.25:980][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 169 ms)
+[2023.09.09-06.26.25:983][ 34]AssetCheck: New page: Asset Save: container_collider_2
+[2023.09.09-06.26.25:983][ 34]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Chemical_station/Container/container_collider_2.container_collider_2
+[2023.09.09-06.26.42:917][ 47]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Static_Mesh.PCB_Static_Mesh
+[2023.09.09-06.26.42:959][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.26.42:959][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-06.26.43:211][ 47]LogViewport: Scene viewport resized to 579x2, mode Windowed.
+[2023.09.09-06.26.43:280][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.26.44:929][142]LogViewport: Scene viewport resized to 576x32, mode Windowed.
+[2023.09.09-06.26.44:977][144]LogViewport: Scene viewport resized to 499x10, mode Windowed.
+[2023.09.09-06.26.45:063][149]LogViewport: Scene viewport resized to 1403x968, mode Windowed.
+[2023.09.09-06.26.45:578][179]LogSlate: Window 'PCB_Static_Mesh' being destroyed
+[2023.09.09-06.26.45:585][179]LogViewport: Scene viewport resized to 1403x1029, mode Windowed.
+[2023.09.09-06.26.45:597][180]LogViewport: Scene viewport resized to 1403x1023, mode Windowed.
+[2023.09.09-06.26.45:619][181]LogViewport: Scene viewport resized to 1403x1013, mode Windowed.
+[2023.09.09-06.26.45:635][182]LogViewport: Scene viewport resized to 1403x1005, mode Windowed.
+[2023.09.09-06.26.45:653][183]LogViewport: Scene viewport resized to 1403x997, mode Windowed.
+[2023.09.09-06.26.45:670][184]LogViewport: Scene viewport resized to 1403x989, mode Windowed.
+[2023.09.09-06.26.45:685][185]LogViewport: Scene viewport resized to 1403x981, mode Windowed.
+[2023.09.09-06.26.45:702][186]LogViewport: Scene viewport resized to 1403x973, mode Windowed.
+[2023.09.09-06.26.45:720][187]LogViewport: Scene viewport resized to 1403x968, mode Windowed.
+[2023.09.09-06.26.50:572][477]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-06.26.50:572][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-06.26.50:592][477]LogViewport: Scene viewport resized to 1145x891, mode Windowed.
+[2023.09.09-06.26.50:601][478]LogViewport: Scene viewport resized to 1145x883, mode Windowed.
+[2023.09.09-06.26.50:620][479]LogViewport: Scene viewport resized to 1145x875, mode Windowed.
+[2023.09.09-06.26.50:637][480]LogViewport: Scene viewport resized to 1145x868, mode Windowed.
+[2023.09.09-06.26.50:653][481]LogViewport: Scene viewport resized to 1145x861, mode Windowed.
+[2023.09.09-06.26.50:670][482]LogViewport: Scene viewport resized to 1145x853, mode Windowed.
+[2023.09.09-06.26.50:685][483]LogViewport: Scene viewport resized to 1145x846, mode Windowed.
+[2023.09.09-06.26.58:280][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.26.58:289][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.26.58:329][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.26.58:435][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP_C
+[2023.09.09-06.26.58:435][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP_C
+[2023.09.09-06.26.58:436][940]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP as actor: PCB_from_UVBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_from_UVBP_C_0
+[2023.09.09-06.26.58:437][940]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP as actor: PCB_from_UVBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_from_UVBP_C_0
+[2023.09.09-06.26.58:440][940]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.09-06.27.01:090][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP_C
+[2023.09.09-06.27.01:091][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP_C
+[2023.09.09-06.27.01:092][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP as actor: PCB_from_UVBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_from_UVBP_C_1
+[2023.09.09-06.27.01:094][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_from_UVBP.PCB_from_UVBP as actor: PCB_from_UVBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_from_UVBP_C_1
+[2023.09.09-06.27.01:108][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:108][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:109][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:109][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:110][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:110][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:110][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:110][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.01:111][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:985][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:985][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:985][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:986][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:986][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:986][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:986][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.12:987][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:636][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:637][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:637][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:637][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:637][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:637][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:638][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:638][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:819][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:820][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:820][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:820][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.17:820][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-06.27.21:080][295]LogDerivedDataCache: C:/Users/gguuo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19135 files in 21089 folders with total size 1271 MiB.
+[2023.09.09-06.27.28:639][744]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP_C
+[2023.09.09-06.27.28:639][744]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP_C
+[2023.09.09-06.27.28:640][744]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP as actor: PCB_Chemi_containerBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_Chemi_containerBP_C_0
+[2023.09.09-06.27.28:641][744]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP as actor: PCB_Chemi_containerBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_Chemi_containerBP_C_0
+[2023.09.09-06.27.31:730][929]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP_C
+[2023.09.09-06.27.31:730][929]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP_C
+[2023.09.09-06.27.31:731][929]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP as actor: PCB_Chemi_containerBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_Chemi_containerBP_C_1
+[2023.09.09-06.27.31:733][929]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/PCBs_of_Chemical/PCB_Chemi_containerBP.PCB_Chemi_containerBP as actor: PCB_Chemi_containerBP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PCB_Chemi_containerBP_C_1
+[2023.09.09-06.27.56:887][433]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-06.27.58:757][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB_C
+[2023.09.09-06.27.58:757][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB_C
+[2023.09.09-06.27.58:759][540]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB as actor: Tong_PCB_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Tong_PCB_C_0
+[2023.09.09-06.27.58:762][540]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB as actor: Tong_PCB_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Tong_PCB_C_0
+[2023.09.09-06.28.00:418][639]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB_C
+[2023.09.09-06.28.00:418][639]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB_C
+[2023.09.09-06.28.00:421][639]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB as actor: Tong_PCB_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Tong_PCB_C_1
+[2023.09.09-06.28.00:423][639]LogActorFactory: Actor Factory spawned Blueprint /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB as actor: Tong_PCB_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Tong_PCB_C_1
+[2023.09.09-06.28.05:617][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-06.28.05:681][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.09-06.28.05:705][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.09-06.28.05:787][944]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.09.09-06.28.05:788][944]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMap3C0799094D6FA0E58927F5A1C1AA5C4F.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.09.09-06.28.05:794][944]LogFileHelpers: No new changes to save!
+[2023.09.09-06.28.05:794][944]LogFileHelpers: Saving map 'VRTemplateMap' took 0.114
+[2023.09.09-06.28.05:801][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 352 ms)
+[2023.09.09-06.28.05:804][944]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.09.09-06.28.05:804][944]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.09.09-06.28.30:782][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-06.28.30:841][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.09-06.28.30:860][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.09.09-06.28.30:937][434]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.09.09-06.28.30:937][434]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMap6B52C6E64FB9223018052799BB89D2AB.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.09.09-06.28.30:943][434]LogFileHelpers: No new changes to save!
+[2023.09.09-06.28.30:943][434]LogFileHelpers: Saving map 'VRTemplateMap' took 0.103
+[2023.09.09-06.28.30:948][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 519 ms)
+[2023.09.09-06.28.30:951][434]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.09.09-06.28.30:951][434]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.09.09-06.28.56:396][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-06.28.56:455][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.09-06.28.56:473][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.09-06.28.56:547][ 91]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.09.09-06.28.56:547][ 91]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMap55AB6D35446761A77A9360969B20E13B.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.09.09-06.28.56:553][ 91]LogFileHelpers: No new changes to save!
+[2023.09.09-06.28.56:553][ 91]LogFileHelpers: Saving map 'VRTemplateMap' took 0.098
+[2023.09.09-06.28.56:558][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 681 ms)
+[2023.09.09-06.28.56:563][ 91]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.09.09-06.28.56:563][ 91]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
