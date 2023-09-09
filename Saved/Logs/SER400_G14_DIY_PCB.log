@@ -1509,3 +1509,32 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.09-07.36.31:303][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.09.09-07.36.31:465][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.09.09-07.36.35:220][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-07.37.32:375][527]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Projector/Projector_BP.Projector_BP_C
+[2023.09.09-07.37.32:375][527]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Projector/Projector_BP.Projector_BP_C
+[2023.09.09-07.37.32:376][527]LogActorFactory: Actor Factory spawned Blueprint /Game/Projector/Projector_BP.Projector_BP as actor: Projector_BP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Projector_BP_C_0
+[2023.09.09-07.37.32:377][527]LogActorFactory: Actor Factory spawned Blueprint /Game/Projector/Projector_BP.Projector_BP as actor: Projector_BP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Projector_BP_C_0
+[2023.09.09-07.37.32:380][527]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.09-07.37.34:214][637]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Projector/Projector_BP.Projector_BP_C
+[2023.09.09-07.37.34:214][637]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Projector/Projector_BP.Projector_BP_C
+[2023.09.09-07.37.34:216][637]LogActorFactory: Actor Factory spawned Blueprint /Game/Projector/Projector_BP.Projector_BP as actor: Projector_BP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Projector_BP_C_1
+[2023.09.09-07.37.34:217][637]LogActorFactory: Actor Factory spawned Blueprint /Game/Projector/Projector_BP.Projector_BP as actor: Projector_BP_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Projector_BP_C_1
+[2023.09.09-07.37.34:231][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:231][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:231][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:232][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:232][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:232][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:233][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:233][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.37.34:233][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.09-07.38.32:674][143]LogDerivedDataCache: C:/Users/gguuo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.119 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19153 files in 21106 folders with total size 1272 MiB.
+[2023.09.09-07.38.43:251][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-07.38.43:320][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.09-07.38.43:332][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.09-07.38.43:408][771]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.09.09-07.38.43:408][771]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMapCA1FDC3346C191165095DB9288FE5F9B.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.09.09-07.38.43:414][771]LogFileHelpers: No new changes to save!
+[2023.09.09-07.38.43:414][771]LogFileHelpers: Saving map 'VRTemplateMap' took 0.096
+[2023.09.09-07.38.43:421][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 951 ms)
+[2023.09.09-07.38.43:426][771]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.09.09-07.38.43:426][771]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
