@@ -1392,3 +1392,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.09-06.24.56:574][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.09-06.24.56:582][  0]LogAutomationController: Ignoring very large delta of 16859645.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.09.09-06.24.56:799][  3]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.09-06.25.01:799][ 18]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
