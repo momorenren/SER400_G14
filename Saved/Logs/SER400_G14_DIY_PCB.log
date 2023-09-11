@@ -2431,3 +2431,193 @@ VRTemplateMap0 (Other Actor)
 [2023.09.11-11.44.54:091][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 2.24 sec)
 [2023.09.11-11.44.54:095][948]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.09.11-11.44.54:095][948]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.09.11-11.45.35:603][575]MapCheck: New page: Map Check
+[2023.09.11-11.45.35:651][575]LightingResults: New page: Lighting Build - 12 Sep 2023, 7:45:35 am
+[2023.09.11-11.45.35:684][575]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.09.11-11.45.35:725][575]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.09.11-11.45.35:778][575]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.09.11-11.45.36:304][575]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.09.11-11.45.36:304][575]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19508
+[2023.09.11-11.45.43:269][575]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.09.11-11.45.43:270][575]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.09.11-11.45.43:270][575]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.09.11-11.45.43:270][575]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.09.11-11.45.43:270][575]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.09.11-11.45.43:270][575]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.09.11-11.45.43:455][575]LogEditorBuildUtils: Build time 0:07
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: ================================================
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Total job queries 85, among them cache hits 13 (15.29%)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 38 distinct outputs (52.78%)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: RAM used: 2.71 MiB of 819.20 MiB budget. Usage: 0.33%
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Shaders Compiled: 12
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100.00%)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Average time worker was idle: 1057.21 s
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.62 s
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Job life time (pending + execution): average 0.84 s, max 1.73
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.39 s
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Average processing rate: 2.73 jobs/sec
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Total thread time: 7.232 s
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Total thread preprocess time: 0.307 s
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Percentage time preprocessing: 4.24%
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 1.38 sec, max 1.44 sec, min 1.34 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.44 sec, max 0.48 sec, min 0.40 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.30 sec, max 0.32 sec, min 0.29 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.29 sec, max 0.32 sec, min 0.28 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 57.27% of total time (compiled    3 times, average 1.38 sec, max 1.44 sec, min 1.34 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 18.28% of total time (compiled    3 times, average 0.44 sec, max 0.48 sec, min 0.40 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.38% of total time (compiled    3 times, average 0.30 sec, max 0.32 sec, min 0.29 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.07% of total time (compiled    3 times, average 0.29 sec, max 0.32 sec, min 0.28 sec)
+[2023.09.11-11.45.44:002][577]LogShaderCompilers: Display: ================================================
+[2023.09.11-11.45.44:060][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.11-11.45.46:015][675]LightingResults: Warning: laptop Object has overlapping UVs.
+[2023.09.11-11.45.46:015][675]LightingResults: laptop Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2023.09.11-11.45.47:087][738]Job is a success!
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:      Bricks at depth
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:      Bricks in each level
+[2023.09.11-11.45.47:251][740]LogVolumetricLightmapImport:          VRTemplateMap 			 2 bricks 	 100.0% (Persistent Level)
+[2023.09.11-11.45.47:352][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 85.270815 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:359][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:369][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:377][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 85.270815 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:384][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:394][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:403][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:SkyOcclusion0_3 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 85.270815 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:410][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:449][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:456][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:SkyOcclusion0_4 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 85.270815 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:465][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:475][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:483][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:SkyOcclusion0_5 (TFO_AutoDXT, 512x256 x1x1x1) (Required Memory Estimate: 20.895758 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:486][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.479156 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:490][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:493][740]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:SkyOcclusion0_6 (TFO_AutoDXT, 64x32 x1x1x1) (Required Memory Estimate: 0.387945 MB), EncodeSpeed: Fast
+[2023.09.11-11.45.47:525][740]Lightmass on MSI: 2.84 sec total, 523 ms importing, 53 ms setup, 518 ms photons, 1.73 sec processing, 0 us extra exporting [38/38 mappings]. Threads: 32.9 sec total, 9.98 sec processing.
+[2023.09.11-11.45.47:574][740]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 38 meshes in 6 LightmapResourceClusters (6.3 Meshes per cluster).
+[2023.09.11-11.45.47:588][740]LogMaterial: Display: Material /Game/Soldering_station/Projector/Material__34.Material__34 needed to have new flag set bUsedWithStaticLighting !
+[2023.09.11-11.45.47:664][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.09.11-11.45.47:714][740]LogStaticLightingSystem: Illumination: 12.0 sec (199 ms encoding lightmaps, 97 us encoding shadowmaps)
+[2023.09.11-11.45.47:714][740]LogStaticLightingSystem: Lightmap texture memory:  11.8 MB (11.8 MB streaming, 0.0 MB non-streaming), 12 textures
+[2023.09.11-11.45.47:715][740]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.09.11-11.45.48:278][740]DumpUnbuiltLightIteractions
+[2023.09.11-11.45.48:278][740]Lights with unbuilt interactions: 0
+[2023.09.11-11.45.48:278][740]
+[2023.09.11-11.45.48:278][740]Primitives with unbuilt interactions: 0
+[2023.09.11-11.45.50:370][740]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.09.11-11.45.51:846][740]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049762s
+[2023.09.11-11.45.56:155][740]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000245s (4.357023s overbudget)
+[2023.09.11-11.45.56:378][741]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.09.11-11.45.56:378][741]MapCheck: New page: VRTemplateMap - 12 Sep 2023, 7:45:56 am
+[2023.09.11-11.45.56:381][741]MapCheck: Warning: button_C_1 Static mesh actor has NULL StaticMesh property 
+[2023.09.11-11.45.56:381][741]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 3.273ms to complete.
+[2023.09.11-11.46.00:286][961]LogSlate: Window 'Message Log' being destroyed
+[2023.09.11-11.46.00:290][961]LogSlate: Window 'Message Log' being destroyed
+[2023.09.11-11.46.23:787][369]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Soldering_station/Light/Light_BP.Light_BP
+[2023.09.11-11.46.23:787][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.11-11.46.23:787][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.11-11.46.25:208][448]LogViewport: Scene viewport resized to 1145x712, mode Windowed.
+[2023.09.11-11.46.40:762][380]BlueprintLog: New page: Compile Light_BP
+[2023.09.11-11.46.40:819][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.11-11.46.41:740][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.46.41:808][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Soldering_station/Light/Light_BP" FILE="../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset" SILENT=true
+[2023.09.11-11.46.41:811][428]LogSavePackage: Moving output files for package: /Game/Soldering_station/Light/Light_BP
+[2023.09.11-11.46.41:812][428]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/Light_BPF690A94242EED54054C913AC779A6BA5.tmp' to '../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset'
+[2023.09.11-11.46.41:818][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.32 sec)
+[2023.09.11-11.46.41:821][428]AssetCheck: New page: Asset Save: Light_BP
+[2023.09.11-11.46.41:821][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Soldering_station/Light/Light_BP.Light_BP
+[2023.09.11-11.47.45:721][245]LogEditorTransaction: Undo Modify Component(s)
+[2023.09.11-11.49.36:369][853]BlueprintLog: New page: Compile Light_BP
+[2023.09.11-11.49.36:502][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.11-11.49.37:120][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.49.37:194][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Soldering_station/Light/Light_BP" FILE="../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset" SILENT=true
+[2023.09.11-11.49.37:199][882]LogSavePackage: Moving output files for package: /Game/Soldering_station/Light/Light_BP
+[2023.09.11-11.49.37:199][882]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/Light_BP0B259E1E4E3F44224BFDD39F0576D374.tmp' to '../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset'
+[2023.09.11-11.49.37:204][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 2.41 sec)
+[2023.09.11-11.49.37:208][882]AssetCheck: New page: Asset Save: Light_BP
+[2023.09.11-11.49.37:209][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Soldering_station/Light/Light_BP.Light_BP
+[2023.09.11-11.49.37:469][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.37:469][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.37:469][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.37:469][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.37:470][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.37:470][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.37:471][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.37:471][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.49.46:618][447]BlueprintLog: New page: Compile Light_BP
+[2023.09.11-11.49.46:668][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.11-11.49.47:209][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.49.47:275][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Soldering_station/Light/Light_BP" FILE="../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset" SILENT=true
+[2023.09.11-11.49.47:278][471]LogSavePackage: Moving output files for package: /Game/Soldering_station/Light/Light_BP
+[2023.09.11-11.49.47:279][471]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/Light_BPE8DD73E84C771829A1EFFCB20EC95287.tmp' to '../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset'
+[2023.09.11-11.49.47:284][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.48 sec)
+[2023.09.11-11.49.47:288][471]AssetCheck: New page: Asset Save: Light_BP
+[2023.09.11-11.49.47:288][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Soldering_station/Light/Light_BP.Light_BP
+[2023.09.11-11.49.53:466][841]BlueprintLog: New page: Compile Light_BP
+[2023.09.11-11.49.53:511][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.09.11-11.49.54:068][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.49.54:146][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Soldering_station/Light/Light_BP" FILE="../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset" SILENT=true
+[2023.09.11-11.49.54:149][867]LogSavePackage: Moving output files for package: /Game/Soldering_station/Light/Light_BP
+[2023.09.11-11.49.54:150][867]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/Light_BP2A3099054448B67AC80944AA30BBA596.tmp' to '../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset'
+[2023.09.11-11.49.54:156][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.57 sec)
+[2023.09.11-11.49.54:159][867]AssetCheck: New page: Asset Save: Light_BP
+[2023.09.11-11.49.54:159][867]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Soldering_station/Light/Light_BP.Light_BP
+[2023.09.11-11.50.17:980][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.17:982][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.17:982][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.17:982][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.17:982][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.17:983][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.17:983][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.17:996][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.50.43:646][822]BlueprintLog: New page: Compile Light_BP
+[2023.09.11-11.50.43:688][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.09.11-11.50.44:187][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.50.44:260][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Soldering_station/Light/Light_BP" FILE="../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset" SILENT=true
+[2023.09.11-11.50.44:264][845]LogSavePackage: Moving output files for package: /Game/Soldering_station/Light/Light_BP
+[2023.09.11-11.50.44:264][845]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/Light_BPD0DD97A94301A75CC4D845993B638EBF.tmp' to '../../../../../../SER400_G14/Content/Soldering_station/Light/Light_BP.uasset'
+[2023.09.11-11.50.44:270][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.65 sec)
+[2023.09.11-11.50.44:274][845]AssetCheck: New page: Asset Save: Light_BP
+[2023.09.11-11.50.44:274][845]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Soldering_station/Light/Light_BP.Light_BP
+[2023.09.11-11.50.45:336][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.50.45:396][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.11-11.50.45:414][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.11-11.50.45:499][904]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.09.11-11.50.45:499][904]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMap322E7013461DD144F758D29C8994D83D.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.09.11-11.50.45:599][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.50.45:600][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2023.09.11-11.50.45:639][904]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.09.11-11.50.45:639][904]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMap_BuiltDataF1F8486D447AA5191554A0B82CBCD5A0.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.09.11-11.50.45:640][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.70 sec)
+[2023.09.11-11.50.45:736][904]LogFileHelpers: Saving map 'VRTemplateMap' took 0.340
+[2023.09.11-11.50.45:753][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 416 ms (total: 3.11 sec)
+[2023.09.11-11.50.45:758][904]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.11-11.50.45:758][904]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.09.11-11.50.45:758][904]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.09.11-11.51.09:478][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.51.09:478][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.51.09:479][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.51.09:479][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.51.09:479][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.51.09:479][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.11-11.51.11:830][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.11-11.51.11:898][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.11-11.51.11:916][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.11-11.51.11:996][461]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.09.11-11.51.11:997][461]LogSavePackage: Moving '../../../../../../SER400_G14/Saved/VRTemplateMapD08074054A07FFB1D3EDA99B8E0F789C.tmp' to '../../../../../../SER400_G14/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.09.11-11.51.12:003][461]LogFileHelpers: No new changes to save!
+[2023.09.11-11.51.12:003][461]LogFileHelpers: Saving map 'VRTemplateMap' took 0.107
+[2023.09.11-11.51.12:011][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 3.29 sec)
+[2023.09.11-11.51.12:016][461]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.09.11-11.51.12:016][461]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
