@@ -1660,3 +1660,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.16-00.48.46:925][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms
 [2023.09.16-00.48.46:928][741]AssetCheck: New page: Asset Save: testingMap
 [2023.09.16-00.48.46:928][741]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/testingMap.testingMap
+[2023.09.16-00.49.18:245][959]LogDerivedDataCache: C:/Users/gguuo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:59.156 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 31205 files in 32843 folders with total size 2665 MiB.
