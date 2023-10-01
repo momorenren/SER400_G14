@@ -1442,3 +1442,1395 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.01-14.18.06:444][517]SourceControl: Error: Updated 0 paths from the index
 [2023.10.01-14.18.06:757][517]SourceControl: rm 'Content/VRTemplate/Maps/Untitled2.umap'
 [2023.10.01-14.18.10:799][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.10.01-14.18.44:768][366]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.01-14.18.44:820][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.18.44:859][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.18.45:217][391]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.startMap
+[2023.10.01-14.18.45:218][391]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.18.45:218][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.18.46:339][391]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.01-14.19.06:568][578]Cmd: MAP LOAD FILE="D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.01-14.19.06:568][578]LightingResults: New page: Lighting Build
+[2023.10.01-14.19.06:568][578]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2023.10.01-14.19.06:587][578]LogSlate: Window 'startMap' being destroyed
+[2023.10.01-14.19.06:603][578]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.19.06:603][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.19.06:622][578]LogWorld: UWorld::CleanupWorld for startMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.19.06:622][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.19.06:622][578]MapCheck: New page: Map Check
+[2023.10.01-14.19.06:623][578]LightingResults: New page: Lighting Build
+[2023.10.01-14.19.06:641][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.19.06:655][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.01-14.19.07:925][578]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2023.10.01-14.19.07:925][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.19.07:925][578]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/drill/drillAnimV6_Anim.drillAnimV6_Anim
+[2023.10.01-14.19.07:925][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.19.07:925][578]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.19.07:978][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.01-14.19.08:017][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.10.01-14.19.08:025][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.01-14.19.08:026][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2023.10.01-14.19.08:026][578]LogFileHelpers: Loading map 'VRTemplateMap' took 1.458
+[2023.10.01-14.19.08:083][578]LogChaos: Display: Input trimesh contains 144 bad triangles.
+[2023.10.01-14.19.08:086][578]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2023.10.01-14.19.08:095][578]LogChaos: Display: Input trimesh contains 276 bad triangles.
+[2023.10.01-14.19.08:109][578]LogChaos: Display: Input trimesh contains 268 bad triangles.
+[2023.10.01-14.19.08:118][578]LogChaos: Display: Input trimesh contains 24 bad triangles.
+[2023.10.01-14.19.08:128][578]LogChaos: Display: Input trimesh contains 148 bad triangles.
+[2023.10.01-14.19.08:141][578]LogChaos: Display: Input trimesh contains 260 bad triangles.
+[2023.10.01-14.19.08:223][578]LogChaos: Display: Input trimesh contains 266 bad triangles.
+[2023.10.01-14.19.08:231][578]LogChaos: Display: Input trimesh contains 24 bad triangles.
+[2023.10.01-14.19.08:235][578]LogChaos: Display: Input trimesh contains 108 bad triangles.
+[2023.10.01-14.19.08:246][578]LogChaos: Display: Input trimesh contains 12 bad triangles.
+[2023.10.01-14.19.08:248][578]LogChaos: Display: Input trimesh contains 24 bad triangles.
+[2023.10.01-14.19.08:249][578]LogChaos: Display: Input trimesh contains 24 bad triangles.
+[2023.10.01-14.19.08:251][578]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2023.10.01-14.19.08:254][578]LogChaos: Display: Input trimesh contains 32 bad triangles.
+[2023.10.01-14.19.08:266][578]LogChaos: Display: Input trimesh contains 24 bad triangles.
+[2023.10.01-14.19.08:268][578]LogChaos: Display: Input trimesh contains 44 bad triangles.
+[2023.10.01-14.19.08:276][578]LogChaos: Display: Input trimesh contains 146 bad triangles.
+[2023.10.01-14.19.08:294][578]LogChaos: Display: Input trimesh contains 36 bad triangles.
+[2023.10.01-14.19.08:809][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:809][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:810][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:810][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:811][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:811][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:811][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:812][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:812][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:813][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:813][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:813][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.19.08:833][579]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.01-14.19.10:357][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.19.10:400][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.19.10:422][663]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.19.10:446][664]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.19.10:753][679]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.VRTemplateMap
+[2023.10.01-14.19.10:754][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.19.10:754][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.20.15:022][ 79]LogDerivedDataCache: C:/Users/abc12/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:57.192 and deleted 237 files with total size 8 MiB and 206 empty folders. Scanned 30152 files in 31803 folders with total size 2417 MiB.
+[2023.10.01-14.40.55:943][897]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-14.40.55:955][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-14.40.55:956][897]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 6:40:55 am)
+[2023.10.01-14.40.55:961][897]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.01-14.40.55:961][897]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.10.01-14.40.55:961][897]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.40.56:028][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067644s)
+[2023.10.01-14.40.56:028][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.067699s)
+[2023.10.01-14.40.56:028][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.40.56:028][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.40.56:029][897]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.40.56:029][897]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2023.10.01-14.40.56:056][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.01-14.40.56:057][897]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.01-14.40.56:057][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-14.40.56:057][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-14.40.56:057][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-14.40.56:058][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-14.40.56:058][897]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-14.40.56:058][897]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-14.40.56:058][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-14.40.56:058][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-14.40.56:059][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-14.40.56:059][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-14.40.56:059][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-14.40.56:061][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-14.40.56:079][897]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-14.40.56:079][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-14.40.56:079][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-14.40.56:079][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-14.40.56:080][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.01-14.40.56:080][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.01-14.40.56:082][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.01-14.40.56:082][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.01-14.40.56:082][897]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.01-14.40.56:082][897]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2023.10.01-14.40.56:082][897]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.01-14.40.56:126][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-14.40.56:323][897]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.40.56:348][897]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.40.56
+[2023.10.01-14.40.56:349][897]LogWorld: Bringing up level for play took: 0.026501
+[2023.10.01-14.40.56:353][897]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.10.01-14.40.56:364][897]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.40.56:368][897]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.40.56:371][897]vr.PixelDensity = "1"
+[2023.10.01-14.40.56:385][897]PIE: Server logged in
+[2023.10.01-14.40.56:396][897]PIE: Play in editor total start time 0.44 seconds.
+[2023.10.01-14.40.56:533][897]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-14.40.56:575][897]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-14.40.56:587][897]LogRenderer: Warning: Resizing VR buffer to 3648 by 1840
+[2023.10.01-14.40.56:680][898]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: ================================================
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: Total job queries 40, among them cache hits 0 (0.00%)
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: Tracking 40 distinct input hashes that result in 27 distinct outputs (67.50%)
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: RAM used: 1.42 MiB of 1.60 GiB budget. Usage: 0.09%
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.01-14.40.56:695][898]LogShaderCompilers: Display: ================================================
+[2023.10.01-14.41.00:264][183]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.41.10:774][977]LogNet: Browse: /Game/VRTemplate/Maps/startMap
+[2023.10.01-14.41.10:774][977]LogLoad: LoadMap: /Game/VRTemplate/Maps/startMap
+[2023.10.01-14.41.10:774][977]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.41.10:776][977]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.41.10:791][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.41.10:849][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.41.10:871][977]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.41.10:871][977]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.10:874][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.01-14.41.10:894][977]LogAudio: Display: Audio Device (ID: 2) registered with world 'startMap'.
+[2023.10.01-14.41.10:894][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.41.10:894][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.41.10:895][977]LogAIModule: Creating AISystem for world startMap
+[2023.10.01-14.41.10:895][977]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2023.10.01-14.41.10:895][977]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.41.10:901][977]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_startMap.startMap up for play (max tick rate 0) at 2023.10.01-22.41.10
+[2023.10.01-14.41.10:901][977]LogWorld: Bringing up level for play took: 0.005173
+[2023.10.01-14.41.10:903][977]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.10:906][977]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.10:907][977]vr.PixelDensity = "1"
+[2023.10.01-14.41.10:907][977]LogLoad: Took 0.132374 seconds to LoadMap(/Game/VRTemplate/Maps/startMap)
+[2023.10.01-14.41.10:948][977]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambience_scifi3'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.41.25:917][857]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.41.25:917][857]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.41.25:917][857]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_startMap
+[2023.10.01-14.41.25:918][857]LogWorld: UWorld::CleanupWorld for startMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.41.25:923][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.41.25:972][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.41.25:976][857]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.41.25:976][857]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.25:977][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.01-14.41.25:979][857]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.41.26:042][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062330s)
+[2023.10.01-14.41.26:043][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.062397s)
+[2023.10.01-14.41.26:043][857]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2023.10.01-14.41.26:043][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.41.26:043][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.41.26:043][857]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.41.26:044][857]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2023.10.01-14.41.26:044][857]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.41.26:062][857]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.41.26
+[2023.10.01-14.41.26:062][857]LogWorld: Bringing up level for play took: 0.018493
+[2023.10.01-14.41.26:064][857]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.26:067][857]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.26:069][857]vr.PixelDensity = "1"
+[2023.10.01-14.41.26:069][857]LogLoad: Took 0.153440 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-14.41.29:936][999]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.41.40:437][545]LogNet: Browse: /Game/VRTemplate/Maps/startMap
+[2023.10.01-14.41.40:437][545]LogLoad: LoadMap: /Game/VRTemplate/Maps/startMap
+[2023.10.01-14.41.40:437][545]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.41.40:438][545]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.41.40:452][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.41.40:509][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.41.40:520][545]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.41.40:520][545]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.40:522][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.01-14.41.40:541][545]LogAudio: Display: Audio Device (ID: 2) registered with world 'startMap'.
+[2023.10.01-14.41.40:541][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.41.40:541][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.41.40:542][545]LogAIModule: Creating AISystem for world startMap
+[2023.10.01-14.41.40:542][545]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2023.10.01-14.41.40:542][545]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.41.40:548][545]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_startMap.startMap up for play (max tick rate 0) at 2023.10.01-22.41.40
+[2023.10.01-14.41.40:548][545]LogWorld: Bringing up level for play took: 0.005653
+[2023.10.01-14.41.40:551][545]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.40:553][545]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.40:554][545]vr.PixelDensity = "1"
+[2023.10.01-14.41.40:554][545]LogLoad: Took 0.117778 seconds to LoadMap(/Game/VRTemplate/Maps/startMap)
+[2023.10.01-14.41.40:601][545]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambience_scifi3'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.41.52:106][247]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.41.52:106][247]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.41.52:106][247]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_startMap
+[2023.10.01-14.41.52:107][247]LogWorld: UWorld::CleanupWorld for startMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.41.52:113][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.41.52:175][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.41.52:179][247]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.41.52:179][247]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.52:181][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.10.01-14.41.52:184][247]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.41.52:246][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062467s)
+[2023.10.01-14.41.52:246][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.062528s)
+[2023.10.01-14.41.52:246][247]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2023.10.01-14.41.52:246][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.41.52:246][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.41.52:247][247]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.41.52:247][247]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2023.10.01-14.41.52:247][247]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.41.52:263][247]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.41.52
+[2023.10.01-14.41.52:264][247]LogWorld: Bringing up level for play took: 0.017049
+[2023.10.01-14.41.52:266][247]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.52:270][247]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.41.52:273][247]vr.PixelDensity = "1"
+[2023.10.01-14.41.52:274][247]LogLoad: Took 0.167241 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-14.41.56:096][448]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.42.14:368][272]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.42.14:368][272]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.42.14:368][272]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.42.14:368][272]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.42.14:387][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.42.14:446][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.42.14:457][272]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.42.14:457][272]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.42.14:459][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.01-14.42.14:462][272]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.42.14:534][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072490s)
+[2023.10.01-14.42.14:534][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.072544s)
+[2023.10.01-14.42.14:534][272]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2023.10.01-14.42.14:534][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.42.14:535][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.42.14:535][272]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.42.14:535][272]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2023.10.01-14.42.14:535][272]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.42.14:556][272]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.42.14
+[2023.10.01-14.42.14:556][272]LogWorld: Bringing up level for play took: 0.020801
+[2023.10.01-14.42.14:560][272]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.42.14:562][272]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.42.14:565][272]vr.PixelDensity = "1"
+[2023.10.01-14.42.14:565][272]LogLoad: Took 0.197905 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-14.42.18:361][496]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.43.37:728][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-14.43.37:728][662]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.43.37:778][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:779][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:779][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:780][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:780][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:781][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:781][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:781][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:782][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:782][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:782][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:783][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.37:865][662]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-14.43.37:869][662]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.43.37:892][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.43.37:898][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-14.43.37:904][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.43.37:937][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.01-14.43.37:937][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.01-14.43.37:939][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.01-14.43.37:967][662]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.43.37:967][662]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.43.37:969][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.10.01-14.43.38:079][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:080][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:080][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:080][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:081][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:081][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:082][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:082][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:082][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:083][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:083][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:083][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.43.38:098][663]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.10.01-14.43.44:350][ 10]LogViewport: Scene viewport resized to 1465x630, mode Windowed.
+[2023.10.01-14.43.44:390][ 12]LogViewport: Scene viewport resized to 1465x636, mode Windowed.
+[2023.10.01-14.43.44:415][ 13]LogViewport: Scene viewport resized to 1465x640, mode Windowed.
+[2023.10.01-14.43.44:439][ 14]LogViewport: Scene viewport resized to 1465x643, mode Windowed.
+[2023.10.01-14.43.44:463][ 15]LogViewport: Scene viewport resized to 1465x647, mode Windowed.
+[2023.10.01-14.43.44:483][ 16]LogViewport: Scene viewport resized to 1465x657, mode Windowed.
+[2023.10.01-14.43.44:505][ 17]LogViewport: Scene viewport resized to 1465x667, mode Windowed.
+[2023.10.01-14.43.44:541][ 19]LogViewport: Scene viewport resized to 1465x695, mode Windowed.
+[2023.10.01-14.43.44:564][ 20]LogViewport: Scene viewport resized to 1465x706, mode Windowed.
+[2023.10.01-14.43.44:588][ 21]LogViewport: Scene viewport resized to 1465x715, mode Windowed.
+[2023.10.01-14.43.44:612][ 22]LogViewport: Scene viewport resized to 1465x728, mode Windowed.
+[2023.10.01-14.43.44:637][ 23]LogViewport: Scene viewport resized to 1465x754, mode Windowed.
+[2023.10.01-14.43.44:662][ 24]LogViewport: Scene viewport resized to 1465x770, mode Windowed.
+[2023.10.01-14.43.44:686][ 25]LogViewport: Scene viewport resized to 1465x781, mode Windowed.
+[2023.10.01-14.43.44:710][ 26]LogViewport: Scene viewport resized to 1465x790, mode Windowed.
+[2023.10.01-14.43.44:736][ 27]LogViewport: Scene viewport resized to 1465x805, mode Windowed.
+[2023.10.01-14.43.44:761][ 28]LogViewport: Scene viewport resized to 1465x815, mode Windowed.
+[2023.10.01-14.43.44:786][ 29]LogViewport: Scene viewport resized to 1465x822, mode Windowed.
+[2023.10.01-14.43.44:810][ 30]LogViewport: Scene viewport resized to 1465x832, mode Windowed.
+[2023.10.01-14.43.44:834][ 31]LogViewport: Scene viewport resized to 1465x838, mode Windowed.
+[2023.10.01-14.43.44:858][ 32]LogViewport: Scene viewport resized to 1465x841, mode Windowed.
+[2023.10.01-14.43.44:883][ 33]LogViewport: Scene viewport resized to 1465x844, mode Windowed.
+[2023.10.01-14.43.45:200][ 34]LogViewport: Scene viewport resized to 1465x831, mode Windowed.
+[2023.10.01-14.44.02:219][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:220][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:220][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:221][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:221][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:221][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:222][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:222][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:222][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:223][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:223][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:223][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.02:225][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.04:706][177]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.44.04:828][181]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64: 'C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-14.44.05:872][239]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.44.09:353][420]LogViewport: Scene viewport resized to 1465x807, mode Windowed.
+[2023.10.01-14.44.09:376][421]LogViewport: Scene viewport resized to 1465x781, mode Windowed.
+[2023.10.01-14.44.09:408][422]LogViewport: Scene viewport resized to 1465x741, mode Windowed.
+[2023.10.01-14.44.09:430][423]LogViewport: Scene viewport resized to 1465x718, mode Windowed.
+[2023.10.01-14.44.09:451][424]LogViewport: Scene viewport resized to 1465x708, mode Windowed.
+[2023.10.01-14.44.09:475][425]LogViewport: Scene viewport resized to 1465x698, mode Windowed.
+[2023.10.01-14.44.15:251][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-14.44.15:252][749]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.44.15:252][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.46.29:427][322]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-14.46.29:482][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.01-14.46.29:527][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.46.30:562][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-14.46.30:652][368]LogPackageLocalizationCache: Processed 49 localized package path(s) for 1 prioritized culture(s) in 0.010223 seconds
+[2023.10.01-14.46.30:659][368]LogSerialization: UsePackageTrailer: 'true'
+[2023.10.01-14.46.30:664][368]LogSavePackage: Moving output files for package: /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP
+[2023.10.01-14.46.30:664][368]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/pcb2_BPBCB96E184FAB585FCA96C7B7B904A08E.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/pcb/pcb2/pcb2/Geometries/pcb2_BP.uasset'
+[2023.10.01-14.46.30:678][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms
+[2023.10.01-14.46.30:685][368]AssetCheck: New page: Asset Save: pcb2_BP
+[2023.10.01-14.46.30:685][368]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-14.46.55:869][731]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-14.46.55:925][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.01-14.46.55:955][731]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.47.19:085][ 99]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-14.47.19:095][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-14.47.19:096][ 99]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 6:47:19 am)
+[2023.10.01-14.47.19:096][ 99]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.47.19:152][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055704s)
+[2023.10.01-14.47.19:152][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.055743s)
+[2023.10.01-14.47.19:152][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.47.19:152][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.47.19:153][ 99]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.47.19:153][ 99]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2023.10.01-14.47.19:175][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.01-14.47.19:178][ 99]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.01-14.47.19:178][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-14.47.19:178][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-14.47.19:178][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-14.47.19:178][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-14.47.19:178][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-14.47.19:178][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-14.47.19:178][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-14.47.19:178][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-14.47.19:179][ 99]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-14.47.19:179][ 99]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-14.47.19:179][ 99]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-14.47.19:182][ 99]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-14.47.19:198][ 99]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-14.47.19:198][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-14.47.19:198][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-14.47.19:198][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-14.47.19:199][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.01-14.47.19:199][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.01-14.47.19:201][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.01-14.47.19:201][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.01-14.47.19:201][ 99]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.01-14.47.19:202][ 99]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2023.10.01-14.47.19:202][ 99]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.01-14.47.19:246][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-14.47.19:441][ 99]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.47.19:463][ 99]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.47.19
+[2023.10.01-14.47.19:464][ 99]LogWorld: Bringing up level for play took: 0.022955
+[2023.10.01-14.47.19:468][ 99]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.10.01-14.47.19:471][ 99]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.19:473][ 99]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.19:476][ 99]vr.PixelDensity = "1"
+[2023.10.01-14.47.19:483][ 99]PIE: Server logged in
+[2023.10.01-14.47.19:487][ 99]PIE: Play in editor total start time 0.391 seconds.
+[2023.10.01-14.47.19:626][ 99]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-14.47.19:651][ 99]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-14.47.23:277][464]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.47.45:215][ 54]LogNet: Browse: /Game/VRTemplate/Maps/startMap
+[2023.10.01-14.47.45:215][ 54]LogLoad: LoadMap: /Game/VRTemplate/Maps/startMap
+[2023.10.01-14.47.45:215][ 54]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.47.45:216][ 54]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.47.45:236][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.47.45:294][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.47.45:309][ 54]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.47.45:309][ 54]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.45:311][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.01-14.47.45:331][ 54]LogAudio: Display: Audio Device (ID: 3) registered with world 'startMap'.
+[2023.10.01-14.47.45:331][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.47.45:331][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.47.45:332][ 54]LogAIModule: Creating AISystem for world startMap
+[2023.10.01-14.47.45:332][ 54]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2023.10.01-14.47.45:332][ 54]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.47.45:337][ 54]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_startMap.startMap up for play (max tick rate 0) at 2023.10.01-22.47.45
+[2023.10.01-14.47.45:338][ 54]LogWorld: Bringing up level for play took: 0.005101
+[2023.10.01-14.47.45:339][ 54]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.45:341][ 54]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.45:342][ 54]vr.PixelDensity = "1"
+[2023.10.01-14.47.45:342][ 54]LogLoad: Took 0.126854 seconds to LoadMap(/Game/VRTemplate/Maps/startMap)
+[2023.10.01-14.47.45:398][ 54]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambience_scifi3'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.47.56:448][843]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.47.56:448][843]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.47.56:448][843]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_startMap
+[2023.10.01-14.47.56:449][843]LogWorld: UWorld::CleanupWorld for startMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.47.56:456][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.47.56:522][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.47.56:526][843]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.47.56:526][843]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.56:528][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.01-14.47.56:531][843]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.47.56:587][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056368s)
+[2023.10.01-14.47.56:587][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.056422s)
+[2023.10.01-14.47.56:587][843]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2023.10.01-14.47.56:587][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.47.56:587][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.47.56:588][843]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.47.56:588][843]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2023.10.01-14.47.56:588][843]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.47.56:606][843]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.47.56
+[2023.10.01-14.47.56:606][843]LogWorld: Bringing up level for play took: 0.018317
+[2023.10.01-14.47.56:608][843]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.56:611][843]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.47.56:613][843]vr.PixelDensity = "1"
+[2023.10.01-14.47.56:613][843]LogLoad: Took 0.163924 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-14.48.00:446][104]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.48.36:177][545]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.48.36:177][545]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.48.36:177][545]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.48.36:178][545]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.48.36:196][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.48.36:248][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.48.36:259][545]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.48.36:259][545]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.48.36:262][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.01-14.48.36:266][545]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.48.36:321][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055267s)
+[2023.10.01-14.48.36:321][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.055319s)
+[2023.10.01-14.48.36:321][545]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2023.10.01-14.48.36:321][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.48.36:321][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.48.36:321][545]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.48.36:322][545]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2023.10.01-14.48.36:322][545]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.48.36:337][545]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.48.36
+[2023.10.01-14.48.36:338][545]LogWorld: Bringing up level for play took: 0.015955
+[2023.10.01-14.48.36:340][545]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.48.36:341][545]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.48.36:345][545]vr.PixelDensity = "1"
+[2023.10.01-14.48.36:345][545]LogLoad: Took 0.167909 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-14.48.40:173][803]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.48.47:836][290]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.48.47:837][290]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.48.47:837][290]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.48.47:838][290]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.48.47:865][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.48.47:921][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.48.47:938][290]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.48.47:938][290]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.48.47:941][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.10.01-14.48.47:945][290]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.48.48:035][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089673s)
+[2023.10.01-14.48.48:035][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.089758s)
+[2023.10.01-14.48.48:035][290]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2023.10.01-14.48.48:035][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.48.48:035][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.48.48:037][290]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.48.48:037][290]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2023.10.01-14.48.48:037][290]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.48.48:062][290]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.48.48
+[2023.10.01-14.48.48:064][290]LogWorld: Bringing up level for play took: 0.026372
+[2023.10.01-14.48.48:066][290]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.48.48:068][290]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.48.48:071][290]vr.PixelDensity = "1"
+[2023.10.01-14.48.48:071][290]LogLoad: Took 0.234759 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-14.48.51:838][485]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.49.50:009][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-14.49.50:009][513]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.49.50:051][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:052][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:053][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:053][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:054][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:055][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:056][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:056][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:057][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:058][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:058][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:060][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:153][513]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-14.49.50:158][513]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.49.50:184][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.49.50:202][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-14.49.50:210][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.49.50:255][513]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.01-14.49.50:255][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.01-14.49.50:258][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.01-14.49.50:286][513]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.49.50:286][513]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.49.50:289][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.10.01-14.49.50:408][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:409][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:411][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:411][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:412][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:412][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:413][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:414][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:414][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:415][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:415][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:417][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.49.50:479][514]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.10.01-14.50.03:095][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:095][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:096][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:096][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:096][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:097][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:097][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:097][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:098][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:098][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.03:098][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.50.04:981][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.50.06:418][389]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/UV_box/UV_box.UV_box
+[2023.10.01-14.50.06:418][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.50.06:418][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.51.06:191][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-14.51.11:114][124]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/VR_click1.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/VR_click1.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-14.51.11:180][128]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/VR_click2.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/VR_click2.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-14.52.12:994][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interfaces/pcb_interface.pcb_interface
+[2023.10.01-14.52.12:994][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.52.12:994][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.52.27:182][640]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.52.27:182][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.56.41:905][442]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-14.56.41:962][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.01-14.56.42:921][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-14.56.43:067][487]LogSavePackage: Moving output files for package: /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP
+[2023.10.01-14.56.43:067][487]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/pcb2_BP238C90584BADCF8D9092D58A323465FB.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/pcb/pcb2/pcb2/Geometries/pcb2_BP.uasset'
+[2023.10.01-14.56.43:080][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 275 ms)
+[2023.10.01-14.56.43:088][487]AssetCheck: New page: Asset Save: pcb2_BP
+[2023.10.01-14.56.43:088][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-14.56.44:395][563]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-14.56.44:405][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-14.56.44:405][563]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 6:56:44 am)
+[2023.10.01-14.56.44:405][563]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.56.44:462][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056354s)
+[2023.10.01-14.56.44:462][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.056395s)
+[2023.10.01-14.56.44:462][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.56.44:462][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.56.44:462][563]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.56.44:463][563]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2023.10.01-14.56.44:486][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.10.01-14.56.44:489][563]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.01-14.56.44:489][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-14.56.44:489][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-14.56.44:489][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-14.56.44:489][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-14.56.44:489][563]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-14.56.44:489][563]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-14.56.44:489][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-14.56.44:489][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-14.56.44:489][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-14.56.44:489][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-14.56.44:489][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-14.56.44:491][563]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-14.56.44:508][563]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-14.56.44:509][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-14.56.44:509][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-14.56.44:509][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-14.56.44:509][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.10.01-14.56.44:509][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.10.01-14.56.44:512][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.10.01-14.56.44:512][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.10.01-14.56.44:512][563]LogInit: FAudioDevice initialized with ID 4.
+[2023.10.01-14.56.44:512][563]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2023.10.01-14.56.44:512][563]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.01-14.56.44:559][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-14.56.44:752][563]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.56.44:777][563]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.56.44
+[2023.10.01-14.56.44:778][563]LogWorld: Bringing up level for play took: 0.025311
+[2023.10.01-14.56.44:780][563]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.10.01-14.56.44:783][563]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.56.44:785][563]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.56.44:789][563]vr.PixelDensity = "1"
+[2023.10.01-14.56.44:800][563]PIE: Server logged in
+[2023.10.01-14.56.44:805][563]PIE: Play in editor total start time 0.4 seconds.
+[2023.10.01-14.56.44:940][563]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-14.56.44:967][563]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-14.56.48:593][892]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.57.01:244][776]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.01:258][777]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-14.57.02:862][892]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.02:862][892]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.06:788][173]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.07:358][213]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.07:498][223]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.09:503][367]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.09:628][376]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.13:221][634]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.13:778][674]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.13:986][689]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.14:390][718]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.14:794][746]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.15:198][775]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.15:769][816]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.16:757][886]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.17:313][926]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.17:591][946]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.17:953][972]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.18:372][  2]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.18:719][ 27]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.19:108][ 55]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.19:623][ 92]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.20:056][123]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.20:445][151]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.21:114][199]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.21:991][262]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.22:464][295]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.22:827][321]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.23:565][374]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.23:996][402]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.26:513][494]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.27:373][525]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.27:681][536]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.28:046][549]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.28:379][561]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.28:770][575]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.29:140][589]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.29:552][594]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.29:736][601]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.30:131][624]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.30:397][642]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.30:842][673]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.31:553][724]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.33:199][838]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.35:580][  7]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.36:013][ 38]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.36:387][ 65]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.36:680][ 86]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.37:070][114]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.37:626][153]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.38:143][190]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.38:769][232]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.39:396][276]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.40:155][322]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.40:600][337]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.41:240][361]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.42:084][401]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.42:635][432]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.43:371][471]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.44:043][516]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.44:723][557]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.45:409][579]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.45:906][611]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.46:518][648]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.47:103][685]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.47:681][705]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.48:183][723]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.58:438][306]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.58:438][306]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.58:438][306]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.57.58:438][306]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.00:442][400]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.00:482][403]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.32:400][639]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.58.32:400][639]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-14.58.32:400][639]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.58.32:402][639]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.58.32:422][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.58.32:490][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-14.58.32:509][639]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.58.32:509][639]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.58.32:512][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.01-14.58.32:515][639]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.58.32:587][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070761s)
+[2023.10.01-14.58.32:587][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.070879s)
+[2023.10.01-14.58.32:587][639]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2023.10.01-14.58.32:587][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.58.32:587][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.58.32:587][639]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.58.32:588][639]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2023.10.01-14.58.32:588][639]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.58.32:607][639]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.58.32
+[2023.10.01-14.58.32:608][639]LogWorld: Bringing up level for play took: 0.019909
+[2023.10.01-14.58.32:610][639]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.58.32:613][639]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.58.32:616][639]vr.PixelDensity = "1"
+[2023.10.01-14.58.32:616][639]LogLoad: Took 0.216129 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-14.58.36:398][896]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.58.37:146][950]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.38:428][ 41]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.38:428][ 41]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.40:418][181]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.43:022][368]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.43:634][411]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.44:260][455]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.44:831][496]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.45:403][537]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.46:001][580]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.46:557][620]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.46:989][651]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.50:650][905]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.51:722][982]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.52:112][ 10]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.52:278][ 22]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.52:515][ 39]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.52:682][ 51]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.52:933][ 69]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.53:071][ 79]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.53:252][ 92]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.53:531][112]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.53:615][118]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.53:810][132]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.53:921][140]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.54:074][151]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.54:188][159]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.54:352][170]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.54:464][178]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.54:630][190]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.54:741][198]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.54:894][209]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.55:021][218]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.55:188][230]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.55:522][254]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.56:456][319]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.56:456][319]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.56:456][319]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.56:457][319]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.57:791][413]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.58.57:833][416]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_UV_collider
+[2023.10.01-14.59.18:028][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-14.59.18:030][847]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.59.18:056][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:057][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:057][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:057][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:058][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:058][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:058][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:058][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:059][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:059][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:060][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:060][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:062][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:149][847]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-14.59.18:154][847]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-14.59.18:178][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.59.18:210][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-14.59.18:219][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-14.59.18:255][847]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.01-14.59.18:255][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.01-14.59.18:258][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.01-14.59.18:289][847]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-14.59.18:289][847]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.59.18:293][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.01-14.59.18:330][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:331][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:332][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:332][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:332][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:333][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:333][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:334][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:334][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:335][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:335][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:337][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-14.59.18:402][848]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: ================================================
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: Total job queries 55, among them cache hits 2 (3.64%)
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 36 distinct outputs (67.92%)
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: RAM used: 1.87 MiB of 1.60 GiB budget. Usage: 0.11%
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.01-14.59.19:248][892]LogShaderCompilers: Display: ================================================
+[2023.10.01-14.59.30:226][535]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-14.59.30:288][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.01-14.59.30:858][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-14.59.30:965][554]LogSavePackage: Moving output files for package: /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP
+[2023.10.01-14.59.30:966][554]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/pcb2_BP87137040472FCB76BD705CB1A5A34F66.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/pcb/pcb2/pcb2/Geometries/pcb2_BP.uasset'
+[2023.10.01-14.59.30:979][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 396 ms)
+[2023.10.01-14.59.30:988][554]AssetCheck: New page: Asset Save: pcb2_BP
+[2023.10.01-14.59.30:988][554]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-14.59.32:372][634]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-14.59.32:384][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-14.59.32:384][634]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 6:59:32 am)
+[2023.10.01-14.59.32:419][634]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-14.59.32:486][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067548s)
+[2023.10.01-14.59.32:486][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.067601s)
+[2023.10.01-14.59.32:486][634]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-14.59.32:486][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-14.59.32:486][634]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-14.59.32:487][634]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2023.10.01-14.59.32:513][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.01-14.59.32:517][634]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.01-14.59.32:517][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-14.59.32:517][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-14.59.32:517][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-14.59.32:517][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-14.59.32:517][634]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-14.59.32:517][634]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-14.59.32:517][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-14.59.32:517][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-14.59.32:518][634]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-14.59.32:518][634]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-14.59.32:518][634]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-14.59.32:520][634]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-14.59.32:539][634]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-14.59.32:539][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-14.59.32:539][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-14.59.32:539][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-14.59.32:540][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.01-14.59.32:540][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.01-14.59.32:543][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.01-14.59.32:543][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.01-14.59.32:543][634]LogInit: FAudioDevice initialized with ID 5.
+[2023.10.01-14.59.32:543][634]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2023.10.01-14.59.32:543][634]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.01-14.59.32:592][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-14.59.32:792][634]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-14.59.32:821][634]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-22.59.32
+[2023.10.01-14.59.32:823][634]LogWorld: Bringing up level for play took: 0.030089
+[2023.10.01-14.59.32:826][634]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.10.01-14.59.32:829][634]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-14.59.32:832][634]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-14.59.32:837][634]vr.PixelDensity = "1"
+[2023.10.01-14.59.32:847][634]PIE: Server logged in
+[2023.10.01-14.59.32:852][634]PIE: Play in editor total start time 0.467 seconds.
+[2023.10.01-14.59.33:007][634]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-14.59.33:034][634]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-14.59.36:675][904]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-14.59.43:777][399]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.43:789][400]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-14.59.44:613][459]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-14.59.44:613][459]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-14.59.52:258][999]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.52:646][ 27]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.52:870][ 43]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.53:091][ 59]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.53:244][ 70]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.54:052][126]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.55:291][213]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.55:709][242]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.56:112][270]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.57:152][325]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.57:431][335]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.57:654][346]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.57:893][363]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-14.59.58:354][396]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.02:153][666]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.02:472][689]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.02:654][702]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.02:765][710]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.02:918][721]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.03:029][729]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.03:182][740]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.03:281][747]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.03:405][755]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.03:740][779]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.03:976][796]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.04:201][812]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.04:408][827]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.04:548][837]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.04:784][853]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.06:506][969]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.00.06:506][969]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.00.06:506][969]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.00.06:507][969]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.00.06:507][969]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.00.08:224][ 63]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.00.08:266][ 66]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.00.20:609][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.00.20:610][ 52]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.00.20:633][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:634][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:634][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:634][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:635][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:635][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:635][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:636][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:636][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:636][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:637][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:638][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:639][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:725][ 52]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.00.20:729][ 52]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.00.20:756][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.00.20:779][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.00.20:791][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.00.20:820][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.00.20:833][ 52]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.01-15.00.20:833][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.01-15.00.20:837][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.01-15.00.20:867][ 52]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.00.20:867][ 52]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.00.20:871][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.01-15.00.20:962][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:964][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:964][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:965][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:965][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:965][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:966][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:966][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:967][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:967][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:968][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.20:969][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.00.21:025][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.10.01-15.00.48:341][587]LogHttp: Warning: 000006AA54FDC300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB1645CA-42CD-0720-6895-048230F496B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c05ca04b4fbeea447896499fa536a264%7Ca0b61b582a9e49ac9c257a45dcf8d3f9%7C25470542-f9f5-42b3-922c-2f0f9ed94abd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.10.01-15.00.48:341][587]LogHttp: Warning: 000006AA54FDC300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2023.10.01-15.00.48:341][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 0 (Found bundle for host: 0x6a9b8960000 [serially])
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.226.71) port 443 (#0))
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 7 (Closing connection 0)
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: 000006AA54FDC300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.10.01-15.00.48:343][587]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB1645CA-42CD-0720-6895-048230F496B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c05ca04b4fbeea447896499fa536a264%7Ca0b61b582a9e49ac9c257a45dcf8d3f9%7C25470542-f9f5-42b3-922c-2f0f9ed94abd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.01-15.04.20:581][ 52]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-15.04.45:089][507]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-15.04.45:148][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.10.01-15.04.47:471][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.04.47:575][633]LogSavePackage: Moving output files for package: /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP
+[2023.10.01-15.04.47:576][633]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/pcb2_BPF3AF15DA40833C9186548E94C1718E4D.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/pcb/pcb2/pcb2/Geometries/pcb2_BP.uasset'
+[2023.10.01-15.04.47:588][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 514 ms)
+[2023.10.01-15.04.47:597][633]AssetCheck: New page: Asset Save: pcb2_BP
+[2023.10.01-15.04.47:597][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-15.04.48:739][699]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.04.48:753][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.04.48:753][699]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:04:48 am)
+[2023.10.01-15.04.48:753][699]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.04.48:819][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066551s)
+[2023.10.01-15.04.48:819][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.066594s)
+[2023.10.01-15.04.48:819][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.04.48:819][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.04.48:820][699]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.04.48:820][699]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2023.10.01-15.04.48:845][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.01-15.04.48:848][699]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.01-15.04.48:848][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.04.48:848][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.04.48:848][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.04.48:848][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.04.48:848][699]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.04.48:848][699]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.04.48:848][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.04.48:848][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.04.48:849][699]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.04.48:849][699]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.04.48:849][699]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.04.48:851][699]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.04.48:872][699]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.04.48:873][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.04.48:873][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.04.48:873][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.04.48:873][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.01-15.04.48:873][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.01-15.04.48:876][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.01-15.04.48:876][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.01-15.04.48:876][699]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.01-15.04.48:876][699]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRTemplateMap'.
+[2023.10.01-15.04.48:876][699]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.01-15.04.48:920][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.04.49:117][699]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.04.49:145][699]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.04.49
+[2023.10.01-15.04.49:146][699]LogWorld: Bringing up level for play took: 0.028563
+[2023.10.01-15.04.49:149][699]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.10.01-15.04.49:152][699]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.04.49:155][699]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.04.49:158][699]vr.PixelDensity = "1"
+[2023.10.01-15.04.49:168][699]PIE: Server logged in
+[2023.10.01-15.04.49:172][699]PIE: Play in editor total start time 0.42 seconds.
+[2023.10.01-15.04.49:323][699]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.04.49:355][699]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.04.52:993][  9]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.05.03:657][829]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.05.03:668][830]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-15.05.16:689][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.05.16:689][844]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.05.16:713][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:713][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:714][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:714][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:715][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:715][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:715][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:716][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:716][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:716][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:717][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:717][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:718][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.16:795][844]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.05.16:800][844]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.05.16:821][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.05.16:847][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.05.16:855][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.05.16:896][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.05.16:896][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.01-15.05.16:896][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.01-15.05.16:899][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.01-15.05.16:932][844]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.05.16:932][844]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.05.16:937][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.10.01-15.05.17:016][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:016][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:017][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:018][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:018][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:018][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:018][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:018][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:019][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:019][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:020][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:022][844]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.05.17:082][845]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.10.01-15.06.29:569][ 32]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-15.06.29:623][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.01-15.06.31:019][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.06.31:234][ 99]LogSavePackage: Moving output files for package: /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP
+[2023.10.01-15.06.31:234][ 99]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/pcb2_BP986AC5A2454699C3BF2730B6BE65B7D5.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/pcb/pcb2/pcb2/Geometries/pcb2_BP.uasset'
+[2023.10.01-15.06.31:252][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 747 ms)
+[2023.10.01-15.06.31:259][ 99]AssetCheck: New page: Asset Save: pcb2_BP
+[2023.10.01-15.06.31:259][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-15.06.33:225][214]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.06.33:238][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.06.33:238][214]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:06:33 am)
+[2023.10.01-15.06.33:238][214]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.06.33:299][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061287s)
+[2023.10.01-15.06.33:300][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.061333s)
+[2023.10.01-15.06.33:300][214]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.06.33:300][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.06.33:300][214]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.06.33:301][214]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2023.10.01-15.06.33:324][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.01-15.06.33:328][214]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.01-15.06.33:328][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.06.33:328][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.06.33:328][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.06.33:328][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.06.33:328][214]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.06.33:328][214]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.06.33:328][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.06.33:328][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.06.33:328][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.06.33:328][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.06.33:328][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.06.33:332][214]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.06.33:350][214]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.06.33:350][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.06.33:350][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.06.33:350][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.06.33:351][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.01-15.06.33:351][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.01-15.06.33:353][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.01-15.06.33:353][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.01-15.06.33:353][214]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.01-15.06.33:353][214]LogAudio: Display: Audio Device (ID: 7) registered with world 'VRTemplateMap'.
+[2023.10.01-15.06.33:353][214]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.01-15.06.33:397][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.06.33:586][214]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.06.33:610][214]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.06.33
+[2023.10.01-15.06.33:611][214]LogWorld: Bringing up level for play took: 0.024188
+[2023.10.01-15.06.33:615][214]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.10.01-15.06.33:618][214]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.06.33:621][214]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.06.33:625][214]vr.PixelDensity = "1"
+[2023.10.01-15.06.33:636][214]PIE: Server logged in
+[2023.10.01-15.06.33:642][214]PIE: Play in editor total start time 0.405 seconds.
+[2023.10.01-15.06.33:796][214]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.06.33:825][214]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.06.37:454][538]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.06.45:959][193]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.06.45:972][194]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-15.06.46:989][267]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.06.47:558][307]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.06.47:893][326]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.06.48:100][339]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.06.48:297][352]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.06.49:174][413]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.06.52:362][637]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.06.52:448][643]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.06.52:461][644]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.06.52:476][645]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.06.55:271][842]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.06.55:272][842]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_main_C_1
+[2023.10.01-15.06.55:272][842]LogBlueprintUserMessages: [pcb2_BP_C_1] PCB_main_C_1
+[2023.10.01-15.06.55:273][842]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.06.55:273][842]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.06.55:273][842]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.06.56:676][936]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.06.56:718][939]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.07.01:559][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.07.01:559][287]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.07.01:582][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:583][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:584][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:584][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:585][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:585][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:585][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:586][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:586][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:586][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:587][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:588][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:589][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:671][287]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.07.01:675][287]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.07.01:697][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.07.01:722][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.07.01:732][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.07.01:771][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.07.01:771][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.01-15.07.01:771][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.01-15.07.01:774][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.01-15.07.01:801][287]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.07.01:801][287]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.07.01:804][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.01-15.07.01:894][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:894][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:895][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:895][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:896][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:897][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:897][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:898][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:898][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:899][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:899][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:901][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.07.01:962][288]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.10.01-15.08.28:987][404]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-15.08.29:042][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.01-15.08.29:615][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.08.29:722][426]LogSavePackage: Moving output files for package: /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP
+[2023.10.01-15.08.29:724][426]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/pcb2_BPCC0ADA74437B22867892F1B1F59EE952.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/pcb/pcb2/pcb2/Geometries/pcb2_BP.uasset'
+[2023.10.01-15.08.29:738][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 870 ms)
+[2023.10.01-15.08.29:747][426]AssetCheck: New page: Asset Save: pcb2_BP
+[2023.10.01-15.08.29:747][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-15.08.30:958][496]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.08.30:971][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.08.30:971][496]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:08:30 am)
+[2023.10.01-15.08.30:971][496]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.08.31:029][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058036s)
+[2023.10.01-15.08.31:029][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.058106s)
+[2023.10.01-15.08.31:029][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.08.31:030][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.08.31:030][496]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.08.31:031][496]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2023.10.01-15.08.31:053][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.01-15.08.31:056][496]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.10.01-15.08.31:056][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.08.31:056][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.08.31:056][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.08.31:056][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.08.31:056][496]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.08.31:056][496]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.08.31:056][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.08.31:056][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.08.31:057][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.08.31:057][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.08.31:057][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.08.31:060][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.08.31:077][496]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.08.31:077][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.08.31:077][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.08.31:077][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.08.31:078][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.10.01-15.08.31:078][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.10.01-15.08.31:080][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.10.01-15.08.31:080][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.10.01-15.08.31:080][496]LogInit: FAudioDevice initialized with ID 8.
+[2023.10.01-15.08.31:080][496]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2023.10.01-15.08.31:080][496]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.01-15.08.31:133][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.08.31:333][496]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.08.31:363][496]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.08.31
+[2023.10.01-15.08.31:364][496]LogWorld: Bringing up level for play took: 0.030929
+[2023.10.01-15.08.31:368][496]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.10.01-15.08.31:371][496]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.08.31:374][496]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.08.31:377][496]vr.PixelDensity = "1"
+[2023.10.01-15.08.31:389][496]PIE: Server logged in
+[2023.10.01-15.08.31:394][496]PIE: Play in editor total start time 0.424 seconds.
+[2023.10.01-15.08.31:543][496]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.08.31:567][496]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.08.35:195][744]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.08.43:982][273]LogBlueprintUserMessages: [pcb2_BP_C_1] VRPawn_C_0
+[2023.10.01-15.08.43:998][274]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-15.08.45:263][345]LogBlueprintUserMessages: [pcb2_BP_C_1] TriggerBox_7
+[2023.10.01-15.08.45:263][345]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.45:263][345]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:265][398]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:291][399]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:307][400]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:332][401]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:431][407]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:446][408]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:486][410]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:501][411]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.46:529][412]LogBlueprintUserMessages: [pcb2_BP_C_1] StaticMeshActor_52
+[2023.10.01-15.08.51:721][647]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.08.51:721][647]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.08.51:722][647]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.08.51:722][647]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.08.53:545][741]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.08.53:600][744]LogBlueprintUserMessages: [pcb2_BP_C_1] UV_box_C_1
+[2023.10.01-15.09.03:940][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.09.03:940][389]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.09.03:966][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:967][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:968][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:968][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:968][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:968][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:969][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:969][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:969][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:971][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:971][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:971][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.03:973][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:063][389]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.09.04:068][389]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.09.04:090][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.09.04:116][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.09.04:127][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.09.04:165][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.09.04:165][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.01-15.09.04:165][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.01-15.09.04:167][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.01-15.09.04:199][389]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.09.04:199][389]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.09.04:202][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.10.01-15.09.04:288][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:288][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:290][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:290][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:291][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:291][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:291][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:292][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:292][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:293][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:293][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:295][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.09.04:365][390]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.10.01-15.11.33:849][289]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-15.11.33:905][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.01-15.11.39:503][612]BlueprintLog: New page: Compile pcb2_BP
+[2023.10.01-15.11.39:557][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.01-15.11.40:067][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.11.40:175][631]LogSavePackage: Moving output files for package: /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP
+[2023.10.01-15.11.40:175][631]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/pcb2_BP4D6A701A45DA1D141FFC91907F74A1F9.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/pcb/pcb2/pcb2/Geometries/pcb2_BP.uasset'
+[2023.10.01-15.11.40:188][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 991 ms)
+[2023.10.01-15.11.40:200][631]AssetCheck: New page: Asset Save: pcb2_BP
+[2023.10.01-15.11.40:200][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/pcb/pcb2/pcb2/Geometries/pcb2_BP.pcb2_BP
+[2023.10.01-15.12.11:183][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.10.01-15.12.11:404][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2023.10.01-15.12.11:405][468]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/VRTemplateMap_Auto1D6FA25B4434E9880EF422B8D7D742A0B.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2023.10.01-15.12.11:412][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.254
+[2023.10.01-15.12.11:412][468]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.254
+[2023.10.01-15.12.18:778][907]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.12.18:794][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.12.18:794][907]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:12:18 am)
+[2023.10.01-15.12.18:794][907]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.12.18:853][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058680s)
+[2023.10.01-15.12.18:853][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.058717s)
+[2023.10.01-15.12.18:853][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.12.18:853][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.12.18:854][907]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.12.18:854][907]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2023.10.01-15.12.18:878][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.10.01-15.12.18:879][907]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.01-15.12.18:879][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.12.18:879][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.12.18:879][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.12.18:879][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.12.18:879][907]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.12.18:879][907]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.12.18:879][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.12.18:879][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.12.18:880][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.12.18:880][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.12.18:880][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.12.18:882][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.12.18:900][907]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.12.18:900][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.12.18:900][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.12.18:900][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.12.18:901][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.10.01-15.12.18:901][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.10.01-15.12.18:903][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.10.01-15.12.18:903][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.10.01-15.12.18:903][907]LogInit: FAudioDevice initialized with ID 9.
+[2023.10.01-15.12.18:903][907]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2023.10.01-15.12.18:903][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.01-15.12.18:947][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.12.19:136][907]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.12.19:162][907]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.12.19
+[2023.10.01-15.12.19:163][907]LogWorld: Bringing up level for play took: 0.026779
+[2023.10.01-15.12.19:166][907]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.10.01-15.12.19:170][907]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.12.19:172][907]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.12.19:177][907]vr.PixelDensity = "1"
+[2023.10.01-15.12.19:186][907]PIE: Server logged in
+[2023.10.01-15.12.19:191][907]PIE: Play in editor total start time 0.397 seconds.
+[2023.10.01-15.12.19:340][907]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.12.19:370][907]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.12.23:003][225]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.12.54:509][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.12.54:509][524]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.12.54:533][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:534][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:534][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:535][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:535][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:535][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:536][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:536][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:536][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:537][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:537][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:537][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:539][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:611][524]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.12.54:617][524]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.12.54:637][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.12.54:663][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.12.54:672][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.12.54:704][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.01-15.12.54:704][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.01-15.12.54:707][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.01-15.12.54:739][524]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.12.54:739][524]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.12.54:743][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.10.01-15.12.54:825][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:825][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:826][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:826][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:826][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:827][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:827][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:828][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:828][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:828][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:828][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:830][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.12.54:889][525]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.10.01-15.13.01:477][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.13.01:592][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.01-15.13.01:790][900]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.13.01:791][900]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/VRTemplateMap3B0DE3C54889E0F06A7EB79AFEE2CBC7.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.01-15.13.01:803][900]LogFileHelpers: No new changes to save!
+[2023.10.01-15.13.01:803][900]LogFileHelpers: Saving map 'VRTemplateMap' took 0.236
+[2023.10.01-15.13.01:816][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 1.33 sec)
+[2023.10.01-15.13.01:825][900]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.01-15.13.01:825][900]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
