@@ -3129,3 +3129,665 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.10.01-11.43.43:612][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.63 sec)
 [2023.10.01-11.43.43:621][ 95]AssetCheck: New page: Asset Save: startMap
 [2023.10.01-11.43.43:621][ 95]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/startMap.startMap
+[2023.10.01-11.50.11:618][909]LogDerivedDataCache: C:/Users/abc12/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.157 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30242 files in 31896 folders with total size 2415 MiB.
+[2023.10.01-11.52.14:654][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:654][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:654][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:655][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:655][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:655][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:656][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:656][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:656][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:657][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:657][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:657][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.14:658][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:439][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:440][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:440][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:440][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:441][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:441][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:441][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:442][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:442][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.37:463][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.40:106][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.40:106][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.40:107][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.40:107][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.52.40:129][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:748][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:749][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:749][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:750][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:750][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:750][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:751][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:751][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:751][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:752][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:752][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:752][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:754][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.00:754][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.53.20:546][ 31]LogContentBrowser: Deferred new asset file creation: controllerPic1
+[2023.10.01-11.53.20:556][ 31]LogContentBrowser: Creating deferred item: controllerPic1
+[2023.10.01-11.53.20:566][ 32]LogContentBrowser: Renaming the item being created (Deferred Item: controllerPic1).
+[2023.10.01-11.53.26:528][378]LogContentBrowser: Attempting asset rename: controllerPic1 -> textTip
+[2023.10.01-11.53.26:833][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-11.53.26:977][378]LogSavePackage: Moving output files for package: /Game/G14_Assets/startPractice/textTip
+[2023.10.01-11.53.26:977][378]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTipFFBC077B458D2C77FD0572983DD1D7DE.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/G14_Assets/startPractice/textTip.uasset'
+[2023.10.01-11.53.27:335][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 502 ms (total: 4.13 sec)
+[2023.10.01-11.53.27:718][378]LogContentBrowser: End creating deferred item controllerPic1
+[2023.10.01-11.53.27:724][378]AssetCheck: New page: Asset Save: textTip
+[2023.10.01-11.53.27:724][378]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/G14_Assets/startPractice/textTip.textTip
+[2023.10.01-11.53.32:355][651]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/G14_Assets/startPractice/controllerPic.controllerPic
+[2023.10.01-11.53.32:510][651]LogViewport: Scene viewport resized to 1243x860, mode Windowed.
+[2023.10.01-11.53.38:611][ 13]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/G14_Assets/startPractice/textTip.textTip
+[2023.10.01-11.53.38:675][ 13]LogViewport: Scene viewport resized to 1243x890, mode Windowed.
+[2023.10.01-11.53.38:720][ 14]LogViewport: Scene viewport resized to 1243x873, mode Windowed.
+[2023.10.01-11.53.38:751][ 15]LogViewport: Scene viewport resized to 1243x863, mode Windowed.
+[2023.10.01-11.53.38:779][ 16]LogViewport: Scene viewport resized to 1243x860, mode Windowed.
+[2023.10.01-11.53.41:109][150]LogInterchangeEngine: [Pending] Importing
+[2023.10.01-11.53.41:109][150]LogInterchangeEngine: Display: Interchange start importing source [D:/uniCourse_Ba...s/oculus imagesall.png]
+[2023.10.01-11.53.41:143][151]LogInterchangeEngine: [Pending] Importing
+[2023.10.01-11.53.41:302][154]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.01-11.53.41:345][155]LogInterchangeEngine: [Success] Import Done
+[2023.10.01-11.53.41:349][155]LogTexture: Display: Building textures: /Game/G14_Assets/startPractice/textTip.textTip (BGRA8, 3024x4032 x1x1x1) (Required Memory Estimate: 356.652344 MB), EncodeSpeed: Fast
+[2023.10.01-11.53.41:458][156]LogInterchangeEngine: [Success] Import Done
+[2023.10.01-11.54.08:528][749]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/G14_Assets/startPractice/controllerPic_MT.controllerPic_MT
+[2023.10.01-11.54.08:540][749]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-11.54.08:540][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-11.54.08:692][749]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.01-11.54.08:692][749]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.54.08:692][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.54.08:692][749]MaterialEditorStats: Shader Count: 0
+[2023.10.01-11.54.08:703][749]LogShaderCompilers: Display: ================================================
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: Total job queries 155, among them cache hits 31 (20.00%)
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 78 distinct outputs (62.90%)
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: RAM used: 4.51 MiB of 1.60 GiB budget. Usage: 0.28%
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.01-11.54.08:704][749]LogShaderCompilers: Display: ================================================
+[2023.10.01-11.54.08:714][749]LogViewport: Scene viewport resized to 328x429, mode Windowed.
+[2023.10.01-11.54.08:835][751]MaterialEditorStats: Base pass vertex shader: 268 instructions
+[2023.10.01-11.54.08:835][751]MaterialEditorStats: Texture samplers: 7/16
+[2023.10.01-11.54.08:835][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.54.08:835][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.54.08:835][751]MaterialEditorStats: Shader Count: 2
+[2023.10.01-11.55.15:375][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.01-11.55.15:410][662]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/startMap_Auto1
+[2023.10.01-11.55.15:410][662]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/startMap_Auto1FE2B969E4FDDCF84F9057B85A104D94F.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/Autosaves/Game/VRTemplate/Maps/startMap_Auto1.umap'
+[2023.10.01-11.55.15:416][662]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/startMap' took 0.078
+[2023.10.01-11.55.15:416][662]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2023.10.01-11.55.15:417][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G14_Assets/startPractice/textTip] ([1] browsable assets)...
+[2023.10.01-11.55.15:421][662]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/G14_Assets/startPractice/textTip.textTip]
+[2023.10.01-11.55.15:421][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/G14_Assets/startPractice/textTip]
+[2023.10.01-11.55.15:512][662]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G14_Assets/startPractice/textTip_Auto1
+[2023.10.01-11.55.15:512][662]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTip_Auto1CAC1B2CD4E1DB5844AA500843C73E6D2.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/Autosaves/Game/G14_Assets/startPractice/textTip_Auto1.uasset'
+[2023.10.01-11.55.15:512][662]LogFileHelpers: Auto-saving content packages took 0.097
+[2023.10.01-11.55.31:263][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-11.55.31:516][592]LogSavePackage: Moving output files for package: /Game/G14_Assets/startPractice/textTip
+[2023.10.01-11.55.31:516][592]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTipB251A36944DA2C095D0DEFA53A6F05FA.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/G14_Assets/startPractice/textTip.uasset'
+[2023.10.01-11.55.31:532][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 4.40 sec)
+[2023.10.01-11.55.31:540][592]AssetCheck: New page: Asset Save: textTip
+[2023.10.01-11.55.31:540][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/G14_Assets/startPractice/textTip.textTip
+[2023.10.01-11.55.52:032][580]LogInterchangeEngine: [Pending] Importing
+[2023.10.01-11.55.52:032][580]LogInterchangeEngine: Display: Interchange start importing source [D:/uniCourse_Ba...s/oculus imagestextTip.png]
+[2023.10.01-11.55.52:066][581]LogTexture: Display: Building textures: /Game/G14_Assets/startPractice/textTip.textTip (BGRA8, 2244x1040 x1x1x1) (Required Memory Estimate: 68.315674 MB), EncodeSpeed: Fast
+[2023.10.01-11.55.52:070][581]LogInterchangeEngine: [Pending] Importing
+[2023.10.01-11.55.52:073][581]LogInterchangeEngine: [Success] Import Done
+[2023.10.01-11.55.52:113][582]LogInterchangeEngine: [Success] Import Done
+[2023.10.01-11.55.57:668][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-11.55.57:778][879]LogSavePackage: Moving output files for package: /Game/G14_Assets/startPractice/textTip
+[2023.10.01-11.55.57:778][879]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTip70BDBC3A49565F2C852C20BD95797AC6.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/G14_Assets/startPractice/textTip.uasset'
+[2023.10.01-11.55.57:795][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 4.53 sec)
+[2023.10.01-11.55.57:804][879]AssetCheck: New page: Asset Save: textTip
+[2023.10.01-11.55.57:804][879]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/G14_Assets/startPractice/textTip.textTip
+[2023.10.01-11.56.04:012][229]LogContentBrowser: Deferred new asset file creation: controllerPic_MT1
+[2023.10.01-11.56.04:088][229]LogContentBrowser: Creating deferred item: controllerPic_MT1
+[2023.10.01-11.56.04:103][230]LogContentBrowser: Renaming the item being created (Deferred Item: controllerPic_MT1).
+[2023.10.01-11.56.12:519][732]LogContentBrowser: Attempting asset rename: controllerPic_MT1 -> textTip_MT
+[2023.10.01-11.56.12:843][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-11.56.14:943][732]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.10.01-11.56.16:807][732]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049875s
+[2023.10.01-11.56.17:336][732]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001087s (0.576776s overbudget)
+[2023.10.01-11.56.17:372][732]LogSavePackage: Moving output files for package: /Game/G14_Assets/startPractice/textTip_MT
+[2023.10.01-11.56.17:372][732]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTip_MTE4469081422938B09D1802B4FDF6AEE1.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/G14_Assets/startPractice/textTip_MT.uasset'
+[2023.10.01-11.56.17:709][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.86 sec (total: 9.39 sec)
+[2023.10.01-11.56.18:083][732]LogContentBrowser: End creating deferred item controllerPic_MT1
+[2023.10.01-11.56.18:089][732]AssetCheck: New page: Asset Save: textTip_MT
+[2023.10.01-11.56.18:090][732]LogContentValidation: Display: Validating /Script/Engine.Material /Game/G14_Assets/startPractice/textTip_MT.textTip_MT
+[2023.10.01-11.56.37:984][894]LogContentBrowser: Deferred new asset file creation: controllerPic_BP1
+[2023.10.01-11.56.37:998][894]LogContentBrowser: Creating deferred item: controllerPic_BP1
+[2023.10.01-11.56.38:016][895]LogContentBrowser: Renaming the item being created (Deferred Item: controllerPic_BP1).
+[2023.10.01-11.56.44:443][278]LogContentBrowser: Attempting asset rename: controllerPic_BP1 -> textTip_BP
+[2023.10.01-11.56.44:599][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.01-11.56.44:818][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-11.56.44:898][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-11.56.44:955][278]LogSavePackage: Moving output files for package: /Game/G14_Assets/startPractice/textTip_BP
+[2023.10.01-11.56.44:955][278]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTip_BP142014A54A246C9A31AE8B8A3F8F3D96.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/G14_Assets/startPractice/textTip_BP.uasset'
+[2023.10.01-11.56.45:180][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 361 ms (total: 9.76 sec)
+[2023.10.01-11.56.45:508][278]LogContentBrowser: End creating deferred item controllerPic_BP1
+[2023.10.01-11.56.45:514][278]AssetCheck: New page: Asset Save: textTip_BP
+[2023.10.01-11.56.45:514][278]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP
+[2023.10.01-11.56.52:041][666]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP
+[2023.10.01-11.56.52:042][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-11.56.52:042][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: ================================================
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Total job queries 179, among them cache hits 35 (19.55%)
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 89 distinct outputs (61.81%)
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: RAM used: 5.32 MiB of 1.60 GiB budget. Usage: 0.32%
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Time job spent in pending queue: average 1.34 s, longest 3.87 s
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Job execution time: average 2.30 s, max 3.78 s
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Job life time (pending + execution): average 3.64 s, max 4.39
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.39 s
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Average processing rate: 3.19 jobs/sec
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Total thread time: 24.752 s
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Total thread preprocess time: 0.663 s
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Percentage time preprocessing: 2.68%
+[2023.10.01-11.57.16:450][ 79]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 2.83 sec, max 2.83 sec, min 2.83 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.81 sec, max 2.81 sec, min 2.81 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.79 sec, max 2.79 sec, min 2.79 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.79 sec, max 2.79 sec, min 2.79 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.76 sec, max 2.76 sec, min 2.76 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 11.43% of total time (compiled    1 times, average 2.83 sec, max 2.83 sec, min 2.83 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 11.35% of total time (compiled    1 times, average 2.81 sec, max 2.81 sec, min 2.81 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.27% of total time (compiled    1 times, average 2.79 sec, max 2.79 sec, min 2.79 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 11.26% of total time (compiled    1 times, average 2.79 sec, max 2.79 sec, min 2.79 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 11.14% of total time (compiled    1 times, average 2.76 sec, max 2.76 sec, min 2.76 sec)
+[2023.10.01-11.57.16:451][ 79]LogShaderCompilers: Display: ================================================
+[2023.10.01-11.57.17:690][136]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.20:806][273]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cross_Mat.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cross_Mat.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.20:806][273]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/CubeMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/CubeMaterial.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.20:998][282]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.21:181][283]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/CustomStencil.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/CustomStencil.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.23:522][361]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.27:887][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.27:887][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.27:887][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineDebugMaterials/TexturePaint_2Tex_Color.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineDebugMaterials/TexturePaint_2Tex_Color.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.57.36:475][121]BlueprintLog: New page: Compile textTip_BP
+[2023.10.01-11.57.36:517][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.01-11.57.37:275][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-11.57.37:357][155]LogSavePackage: Moving output files for package: /Game/G14_Assets/startPractice/textTip_BP
+[2023.10.01-11.57.37:357][155]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTip_BPBD4D13CA4B155F2CBF50EF80EC2359B5.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/G14_Assets/startPractice/textTip_BP.uasset'
+[2023.10.01-11.57.37:369][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 9.85 sec)
+[2023.10.01-11.57.37:378][155]AssetCheck: New page: Asset Save: textTip_BP
+[2023.10.01-11.57.37:378][155]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP
+[2023.10.01-11.57.48:862][814]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.57.48:862][814]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.57.48:863][814]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_0
+[2023.10.01-11.57.48:864][814]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_0
+[2023.10.01-11.57.54:431][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.57.54:431][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.57.54:433][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_1
+[2023.10.01-11.57.54:434][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_1
+[2023.10.01-11.57.54:456][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:457][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:457][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:458][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:458][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:458][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:458][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:459][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:459][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:459][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.57.54:485][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.58.08:907][934]Cmd: DELETE
+[2023.10.01-11.58.08:907][934]Cmd: ACTOR DELETE
+[2023.10.01-11.58.08:926][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-11.58.08:938][934]LogEditorActor: Deleted Actor: textTip_BP_C
+[2023.10.01-11.58.08:967][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.01-11.58.08:972][934]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2023.10.01-11.58.09:006][934]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.58.19:068][530]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/G14_Assets/startPractice/textTip_MT.textTip_MT
+[2023.10.01-11.58.19:071][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-11.58.19:073][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-11.58.19:192][530]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.01-11.58.19:192][530]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.58.19:192][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.58.19:192][530]MaterialEditorStats: Shader Count: 0
+[2023.10.01-11.58.19:203][530]LogViewport: Scene viewport resized to 328x431, mode Windowed.
+[2023.10.01-11.58.19:260][531]LogViewport: Scene viewport resized to 328x429, mode Windowed.
+[2023.10.01-11.58.19:994][570]MaterialEditorStats: Base pass vertex shader: 268 instructions
+[2023.10.01-11.58.19:994][570]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.01-11.58.19:994][570]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.58.19:994][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.58.19:994][570]MaterialEditorStats: Shader Count: 1
+[2023.10.01-11.58.21:501][659]MaterialEditorStats: Base pass vertex shader: 268 instructions
+[2023.10.01-11.58.21:501][659]MaterialEditorStats: Texture samplers: 7/16
+[2023.10.01-11.58.21:501][659]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.58.21:501][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.58.21:501][659]MaterialEditorStats: Shader Count: 2
+[2023.10.01-11.58.34:843][450]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineLightProfiles/Complex_IES.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineLightProfiles/Complex_IES.uasset' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.58.34:843][450]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/Editor/Slate/Icons/AssetIcons: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/Editor/Slate/Icons/AssetIcons' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-11.58.38:788][684]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.01-11.58.38:788][684]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.58.38:788][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.58.38:788][684]MaterialEditorStats: Shader Count: 0
+[2023.10.01-11.58.39:550][727]MaterialEditorStats: Base pass vertex shader: 268 instructions
+[2023.10.01-11.58.39:550][727]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.01-11.58.39:550][727]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.58.39:550][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.58.39:550][727]MaterialEditorStats: Shader Count: 1
+[2023.10.01-11.58.41:051][817]MaterialEditorStats: Base pass vertex shader: 268 instructions
+[2023.10.01-11.58.41:051][817]MaterialEditorStats: Texture samplers: 7/16
+[2023.10.01-11.58.41:051][817]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.58.41:051][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.58.41:051][817]MaterialEditorStats: Shader Count: 2
+[2023.10.01-11.58.42:223][886]LogMaterialEditor: Saving and Compiling material textTip_MT
+[2023.10.01-11.58.42:332][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.01-11.58.42:918][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.01-11.58.43:085][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-11.58.45:180][886]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.10.01-11.58.46:138][886]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001031s (0.960207s overbudget)
+[2023.10.01-11.58.46:172][886]LogSavePackage: Moving output files for package: /Game/G14_Assets/startPractice/textTip_MT
+[2023.10.01-11.58.46:172][886]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/textTip_MTDD4323D842A400DCAD4CC5956DA2CFFA.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/G14_Assets/startPractice/textTip_MT.uasset'
+[2023.10.01-11.58.46:184][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.09 sec (total: 12.9 sec)
+[2023.10.01-11.58.46:191][886]AssetCheck: New page: Asset Save: textTip_MT
+[2023.10.01-11.58.46:191][886]LogContentValidation: Display: Validating /Script/Engine.Material /Game/G14_Assets/startPractice/textTip_MT.textTip_MT
+[2023.10.01-11.58.46:193][886]MaterialEditorStats: Base pass shader: 742 instructions
+[2023.10.01-11.58.46:193][886]MaterialEditorStats: Base pass vertex shader: 268 instructions
+[2023.10.01-11.58.46:193][886]MaterialEditorStats: MaxSampler: 790 instructions
+[2023.10.01-11.58.46:193][886]MaterialEditorStats: Texture samplers: 8/16
+[2023.10.01-11.58.46:193][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.01-11.58.46:193][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.01-11.58.46:193][886]MaterialEditorStats: Shader Count: 14
+[2023.10.01-11.58.50:940][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.58.50:940][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.58.50:941][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_2
+[2023.10.01-11.58.50:942][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_2
+[2023.10.01-11.58.51:977][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.58.51:977][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/G14_Assets/startPractice/textTip_BP.textTip_BP_C
+[2023.10.01-11.58.51:978][153]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_3
+[2023.10.01-11.58.51:979][153]LogActorFactory: Actor Factory spawned Blueprint /Game/G14_Assets/startPractice/textTip_BP.textTip_BP as actor: textTip_BP_C /Game/VRTemplate/Maps/startMap.startMap:PersistentLevel.textTip_BP_C_3
+[2023.10.01-11.58.52:001][153]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:479][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:480][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:480][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:481][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:481][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:481][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:482][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:482][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:482][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:483][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:483][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:483][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.36:485][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:595][656]Cmd: TRANSACTION UNDO
+[2023.10.01-11.59.39:595][656]LogEditorTransaction: Undo Move Elements
+[2023.10.01-11.59.39:645][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:646][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:646][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:646][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:647][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:647][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:648][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:648][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:648][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:648][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:648][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:651][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.39:651][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:305][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:306][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:324][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:325][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:340][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:357][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:357][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:378][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:379][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:927][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:949][778]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:950][778]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:950][778]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:966][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:981][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:981][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:982][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:982][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.41:983][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:001][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:016][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:017][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:034][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:270][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:272][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:288][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:306][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:306][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:306][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:307][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:308][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:322][800]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:324][800]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:341][801]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:341][801]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:342][801]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:805][829]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:806][829]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:824][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:841][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:842][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:857][832]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-11.59.42:857][832]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.01.15:875][385]MapCheck: New page: Map Check
+[2023.10.01-12.01.15:989][385]LightingResults: New page: Lighting Build - 2 Oct 2023, 4:01:15 am
+[2023.10.01-12.01.16:035][385]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.10.01-12.01.16:072][385]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.10.01-12.01.16:096][385]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.10.01-12.01.16:621][385]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.10.01-12.01.16:621][385]LogSwarmInterface: [TryOpenConnection] Local Process ID is 38804
+[2023.10.01-12.01.19:682][385]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.10.01-12.01.19:682][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.10.01-12.01.19:682][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.10.01-12.01.19:682][385]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.10.01-12.01.19:682][385]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.10.01-12.01.19:682][385]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.10.01-12.01.19:832][385]LogEditorBuildUtils: Build time 0:03
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: ================================================
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Total job queries 259, among them cache hits 48 (18.53%)
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Tracking 211 distinct input hashes that result in 115 distinct outputs (54.50%)
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: RAM used: 7.92 MiB of 1.60 GiB budget. Usage: 0.48%
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Shaders Compiled: 39
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100.00%)
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Average time worker was idle: 37.21 s
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Time job spent in pending queue: average 0.56 s, longest 3.87 s
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Job execution time: average 1.74 s, max 3.78 s
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Job life time (pending + execution): average 2.30 s, max 4.39
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.83 s
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Average processing rate: 2.32 jobs/sec
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Total thread time: 56.585 s
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Total thread preprocess time: 1.214 s
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Percentage time preprocessing: 2.15%
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Effective parallelization: 3.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.01-12.01.19:849][385]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 2.58 sec, max 2.79 sec, min 2.38 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 2.56 sec, max 2.81 sec, min 2.32 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 2.56 sec, max 2.76 sec, min 2.36 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 2.56 sec, max 2.83 sec, min 2.28 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 2.45 sec, max 2.71 sec, min 2.18 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 21.57% of total time (compiled    6 times, average 2.03 sec, max 2.37 sec, min 1.74 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.07% of total time (compiled    3 times, average 1.90 sec, max 2.79 sec, min 0.58 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.13% of total time (compiled    2 times, average 2.58 sec, max 2.79 sec, min 2.38 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.06% of total time (compiled    2 times, average 2.56 sec, max 2.81 sec, min 2.32 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 9.05% of total time (compiled    2 times, average 2.56 sec, max 2.76 sec, min 2.36 sec)
+[2023.10.01-12.01.19:850][385]LogShaderCompilers: Display: ================================================
+[2023.10.01-12.01.19:997][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.01-12.01.24:162][520]Job is a success!
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:      Bricks at depth
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:      Bricks in each level
+[2023.10.01-12.01.24:378][521]LogVolumetricLightmapImport:          startMap 			 10 bricks 	 100.0% (Persistent Level)
+[2023.10.01-12.01.24:528][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:566][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:576][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:586][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:595][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:607][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:616][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:621][521]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2023.10.01-12.01.24:852][521]Lightmass on SOPHIA: 4.15 sec total, 118 ms importing, 13 ms setup, 619 ms photons, 3.40 sec processing, 0 us extra exporting [19/19 mappings]. Threads: 51.0 sec total, 15.9 sec processing.
+[2023.10.01-12.01.24:853][521]LogStaticLightingSystem: startMap_BuiltData storing lightmap data for 19 meshes in 5 LightmapResourceClusters (3.8 Meshes per cluster).
+[2023.10.01-12.01.24:918][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.01-12.01.24:951][521]LogStaticLightingSystem: Illumination: 8.88 sec (154 ms encoding lightmaps, 210 ms encoding shadowmaps)
+[2023.10.01-12.01.24:951][521]LogStaticLightingSystem: Lightmap texture memory:  6.3 MB (6.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2023.10.01-12.01.24:951][521]LogStaticLightingSystem: Shadowmap texture memory: 10.8 MB (10.8 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.10.01-12.01.25:702][521]DumpUnbuiltLightIteractions
+[2023.10.01-12.01.25:702][521]Lights with unbuilt interactions: 0
+[2023.10.01-12.01.25:702][521]
+[2023.10.01-12.01.25:702][521]Primitives with unbuilt interactions: 0
+[2023.10.01-12.01.25:828][522]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.10.01-12.01.25:828][522]MapCheck: New page: startMap - 2 Oct 2023, 4:01:25 am
+[2023.10.01-12.01.25:829][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.464ms to complete.
+[2023.10.01-12.01.32:780][938]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.10.01-12.01.49:186][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.01-12.01.49:412][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-12.01.49:522][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.01-12.01.49:551][908]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/startMap
+[2023.10.01-12.01.49:551][908]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/startMapEB96A6E8466958C59620D6A91B66B771.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/startMap.umap'
+[2023.10.01-12.01.49:759][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-12.01.49:802][908]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/startMap_BuiltData
+[2023.10.01-12.01.49:803][908]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/startMap_BuiltData2C3753FB4BF11D16138D1AB38A00DDA9.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/startMap_BuiltData.uasset'
+[2023.10.01-12.01.49:803][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 13.0 sec)
+[2023.10.01-12.01.49:975][908]LogFileHelpers: Saving map 'startMap' took 0.475
+[2023.10.01-12.01.55:172][908]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.01-12.01.55:246][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.01-12.01.55:284][908]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-12.01.55:317][908]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-12.01.55:348][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.01-12.01.55:376][908]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/Untitled
+[2023.10.01-12.01.55:376][908]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/Untitled50C31C1741C2ACE4DAE7E58D507C434E.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/Untitled.umap'
+[2023.10.01-12.01.55:626][908]LogFileHelpers: Saving map 'Untitled' took 0.436
+[2023.10.01-12.01.55:666][908]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/startMap_BuiltData
+[2023.10.01-12.01.55:667][908]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/startMap_BuiltData6B0B8D784D3461B1F4CC55AB59F02FBC.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/startMap_BuiltData.uasset'
+[2023.10.01-12.01.55:709][908]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/startMap_BuiltData
+[2023.10.01-12.01.55:710][908]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/startMap_BuiltData999080684381D20525A09CBC20AA9713.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/startMap_BuiltData.uasset'
+[2023.10.01-12.01.55:738][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.32 sec (total: 19.3 sec)
+[2023.10.01-12.01.55:748][908]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.01-12.01.55:748][908]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/startMap.startMap
+[2023.10.01-12.01.55:748][908]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/VRTemplate/Maps/startMap_BuiltData.startMap_BuiltData
+[2023.10.01-12.01.55:748][908]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/Untitled.Untitled
+[2023.10.01-12.01.58:771][ 87]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-12.01.58:784][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-12.01.58:784][ 87]PIE: New page: PIE session: startMap (2 Oct 2023, 4:01:58 am)
+[2023.10.01-12.01.58:784][ 87]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_startMap
+[2023.10.01-12.01.58:803][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019304s)
+[2023.10.01-12.01.58:803][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/startMap.startMap to /Game/VRTemplate/Maps/UEDPIE_0_startMap.startMap (0.019337s)
+[2023.10.01-12.01.58:803][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-12.01.58:803][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-12.01.58:803][ 87]LogAIModule: Creating AISystem for world startMap
+[2023.10.01-12.01.58:804][ 87]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2023.10.01-12.01.58:831][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.01-12.01.58:833][ 87]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.01-12.01.58:833][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-12.01.58:833][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-12.01.58:833][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-12.01.58:833][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-12.01.58:833][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-12.01.58:833][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-12.01.58:833][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-12.01.58:833][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-12.01.58:834][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-12.01.58:834][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-12.01.58:834][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-12.01.58:837][ 87]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-12.01.58:856][ 87]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-12.01.58:857][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-12.01.58:857][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-12.01.58:857][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-12.01.58:857][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.01-12.01.58:857][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.01-12.01.58:858][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.01-12.01.58:859][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.01-12.01.58:859][ 87]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.01-12.01.58:859][ 87]LogAudio: Display: Audio Device (ID: 6) registered with world 'startMap'.
+[2023.10.01-12.01.58:859][ 87]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.01-12.01.58:901][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-12.01.59:140][ 87]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-12.01.59:157][ 87]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_startMap.startMap up for play (max tick rate 0) at 2023.10.01-20.01.59
+[2023.10.01-12.01.59:158][ 87]LogWorld: Bringing up level for play took: 0.017959
+[2023.10.01-12.01.59:161][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.10.01-12.01.59:164][ 87]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-12.01.59:166][ 87]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-12.01.59:168][ 87]vr.PixelDensity = "1"
+[2023.10.01-12.01.59:174][ 87]PIE: Server logged in
+[2023.10.01-12.01.59:176][ 87]PIE: Play in editor total start time 0.395 seconds.
+[2023.10.01-12.01.59:226][ 87]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambience_scifi3'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-12.01.59:239][ 87]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-12.01.59:246][ 87]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-12.02.19:648][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-12.02.19:648][742]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_startMap
+[2023.10.01-12.02.19:669][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:670][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:670][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:670][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:671][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:671][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:672][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:672][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:672][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:673][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:673][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:673][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:675][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:745][742]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-12.02.19:751][742]LogWorld: UWorld::CleanupWorld for startMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-12.02.19:756][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-12.02.19:762][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-12.02.19:769][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-12.02.19:798][742]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-12.02.19:799][742]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.01-12.02.19:801][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.01-12.02.19:805][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.01-12.02.19:823][742]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-12.02.19:823][742]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-12.02.19:825][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.10.01-12.02.19:913][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:914][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:914][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:915][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:915][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:915][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:916][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:916][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:916][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:917][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:917][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:918][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.19:938][743]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.10.01-12.02.25:801][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:802][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:802][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:802][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:803][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:803][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:803][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:804][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:804][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:804][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:806][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:806][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.25:807][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.02.34:148][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-12.02.34:257][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.01-12.02.34:287][570]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/startMap
+[2023.10.01-12.02.34:287][570]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/startMap0C43C56B41C374ED8D18478A57236163.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/startMap.umap'
+[2023.10.01-12.02.34:297][570]LogFileHelpers: No new changes to save!
+[2023.10.01-12.02.34:297][570]LogFileHelpers: Saving map 'startMap' took 0.065
+[2023.10.01-12.02.34:309][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 19.4 sec)
+[2023.10.01-12.02.34:318][570]AssetCheck: New page: Asset Save: startMap
+[2023.10.01-12.02.34:318][570]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/startMap.startMap
+[2023.10.01-12.02.35:072][613]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-12.02.35:085][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-12.02.35:085][613]PIE: New page: PIE session: startMap (2 Oct 2023, 4:02:35 am)
+[2023.10.01-12.02.35:085][613]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_startMap
+[2023.10.01-12.02.35:105][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020743s)
+[2023.10.01-12.02.35:105][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/startMap.startMap to /Game/VRTemplate/Maps/UEDPIE_0_startMap.startMap (0.020778s)
+[2023.10.01-12.02.35:105][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-12.02.35:105][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-12.02.35:106][613]LogAIModule: Creating AISystem for world startMap
+[2023.10.01-12.02.35:106][613]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2023.10.01-12.02.35:132][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.01-12.02.35:133][613]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.01-12.02.35:133][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-12.02.35:133][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-12.02.35:133][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-12.02.35:133][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-12.02.35:133][613]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-12.02.35:133][613]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-12.02.35:133][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-12.02.35:133][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-12.02.35:134][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-12.02.35:134][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-12.02.35:134][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-12.02.35:136][613]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-12.02.35:152][613]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-12.02.35:152][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-12.02.35:152][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-12.02.35:152][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-12.02.35:153][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.01-12.02.35:153][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.01-12.02.35:155][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.01-12.02.35:156][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.01-12.02.35:156][613]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.01-12.02.35:156][613]LogAudio: Display: Audio Device (ID: 7) registered with world 'startMap'.
+[2023.10.01-12.02.35:156][613]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.01-12.02.35:208][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-12.02.35:402][613]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-12.02.35:422][613]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_startMap.startMap up for play (max tick rate 0) at 2023.10.01-20.02.35
+[2023.10.01-12.02.35:423][613]LogWorld: Bringing up level for play took: 0.021151
+[2023.10.01-12.02.35:426][613]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.10.01-12.02.35:428][613]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-12.02.35:430][613]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-12.02.35:432][613]vr.PixelDensity = "1"
+[2023.10.01-12.02.35:441][613]PIE: Server logged in
+[2023.10.01-12.02.35:446][613]PIE: Play in editor total start time 0.361 seconds.
+[2023.10.01-12.02.35:498][613]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambience_scifi3'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-12.02.35:510][613]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-12.02.35:514][613]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-12.03.03:458][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-12.03.03:458][108]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_startMap
+[2023.10.01-12.03.03:481][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:482][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:482][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:482][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:483][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:483][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:483][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:484][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:484][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:485][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:485][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:486][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:487][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:555][108]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-12.03.03:558][108]LogWorld: UWorld::CleanupWorld for startMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-12.03.03:566][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-12.03.03:571][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-12.03.03:580][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-12.03.03:611][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.01-12.03.03:611][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.01-12.03.03:615][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.01-12.03.03:632][108]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-12.03.03:632][108]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-12.03.03:635][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.01-12.03.03:726][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:727][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:728][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:728][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:728][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:729][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:729][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:731][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:731][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:731][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:732][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:733][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:734][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-12.03.03:757][109]LogPlayLevel: Display: Destroying online subsystem :Context_23
