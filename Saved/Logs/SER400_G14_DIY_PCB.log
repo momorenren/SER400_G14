@@ -3158,3 +3158,411 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.01-15.20.18:873][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.01-15.20.18:936][639]LogPlayLevel: Display: Destroying online subsystem :Context_32
 [2023.10.01-15.20.25:998][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.01-15.21.24:830][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:831][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:831][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:832][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:832][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:832][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:833][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:833][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:833][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.24:834][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.21.34:907][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.21.36:459][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Soldering_station/PCB_holder/PCB_holderBP.PCB_holderBP
+[2023.10.01-15.21.36:460][592]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.21.36:460][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.22.46:687][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Soldering_station/Solder_text/solder_text_interface.solder_text_interface
+[2023.10.01-15.22.46:688][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.22.46:688][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.22.59:500][368]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.22.59:500][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.25.27:502][900]BlueprintLog: New page: Compile PCB_holderBP
+[2023.10.01-15.25.27:612][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.01-15.25.27:681][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.28:300][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.25.28:405][924]LogSavePackage: Moving output files for package: /Game/Soldering_station/PCB_holder/PCB_holderBP
+[2023.10.01-15.25.28:405][924]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/PCB_holderBP4222702B4680F10B6DBDC6A29C6130E7.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/Soldering_station/PCB_holder/PCB_holderBP.uasset'
+[2023.10.01-15.25.28:417][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.34 sec)
+[2023.10.01-15.25.28:425][924]AssetCheck: New page: Asset Save: PCB_holderBP
+[2023.10.01-15.25.28:425][924]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Soldering_station/PCB_holder/PCB_holderBP.PCB_holderBP
+[2023.10.01-15.25.41:969][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:970][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:970][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:970][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:971][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:971][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:971][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:972][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.41:972][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.25.51:974][277]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.25.51:993][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.25.51:993][277]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:25:51 am)
+[2023.10.01-15.25.51:993][277]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.25.52:060][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066411s)
+[2023.10.01-15.25.52:060][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.066459s)
+[2023.10.01-15.25.52:060][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.25.52:060][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.25.52:060][277]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.25.52:061][277]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2023.10.01-15.25.52:085][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.01-15.25.52:088][277]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.10.01-15.25.52:088][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.25.52:088][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.25.52:088][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.25.52:088][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.25.52:088][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.25.52:088][277]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.25.52:088][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.25.52:088][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.25.52:088][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.25.52:088][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.25.52:088][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.25.52:092][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.25.52:108][277]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.25.52:108][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.25.52:108][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.25.52:108][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.25.52:109][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.10.01-15.25.52:109][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.10.01-15.25.52:111][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.10.01-15.25.52:111][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.10.01-15.25.52:111][277]LogInit: FAudioDevice initialized with ID 12.
+[2023.10.01-15.25.52:111][277]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2023.10.01-15.25.52:111][277]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.01-15.25.52:162][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.25.52:363][277]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.25.52:394][277]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.25.52
+[2023.10.01-15.25.52:395][277]LogWorld: Bringing up level for play took: 0.031022
+[2023.10.01-15.25.52:398][277]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.10.01-15.25.52:401][277]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.25.52:405][277]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.25.52:410][277]vr.PixelDensity = "1"
+[2023.10.01-15.25.52:424][277]PIE: Server logged in
+[2023.10.01-15.25.52:431][277]PIE: Play in editor total start time 0.438 seconds.
+[2023.10.01-15.25.52:580][277]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.25.52:619][277]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.25.56:245][556]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.26.13:935][632]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.10.01-15.26.33:631][807]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.26.33:631][807]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.26.33:631][807]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.26.33:632][807]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.26.33:652][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.26.33:717][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.26.33:729][807]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.26.33:729][807]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.26.33:731][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.10.01-15.26.33:736][807]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.26.33:799][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064135s)
+[2023.10.01-15.26.33:799][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.064202s)
+[2023.10.01-15.26.33:799][807]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2023.10.01-15.26.33:799][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.26.33:799][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.26.33:800][807]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.26.33:800][807]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2023.10.01-15.26.33:800][807]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.26.33:817][807]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.26.33
+[2023.10.01-15.26.33:818][807]LogWorld: Bringing up level for play took: 0.016947
+[2023.10.01-15.26.33:820][807]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.26.33:822][807]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.26.33:825][807]vr.PixelDensity = "1"
+[2023.10.01-15.26.33:825][807]LogLoad: Took 0.194287 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-15.26.37:623][ 29]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.26.59:399][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.26.59:399][274]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.26.59:422][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:423][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:423][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:423][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:424][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:425][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:426][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:426][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:426][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:427][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:427][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:427][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:430][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:508][274]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.26.59:513][274]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.26.59:534][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.26.59:598][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.26.59:609][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.26.59:647][274]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.01-15.26.59:648][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.01-15.26.59:649][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.01-15.26.59:679][274]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.26.59:679][274]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.26.59:682][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.01-15.26.59:768][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:768][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:768][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:769][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:769][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:769][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:770][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:770][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:771][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:771][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:771][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:772][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:776][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.26.59:860][275]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.10.01-15.27.37:504][499]BlueprintLog: New page: Compile PCB_holderBP
+[2023.10.01-15.27.37:576][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.10.01-15.27.38:451][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.27.38:549][537]LogSavePackage: Moving output files for package: /Game/Soldering_station/PCB_holder/PCB_holderBP
+[2023.10.01-15.27.38:550][537]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/PCB_holderBPB8BE499C4235103EDAAE05B3110B9F6F.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/Soldering_station/PCB_holder/PCB_holderBP.uasset'
+[2023.10.01-15.27.38:564][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.45 sec)
+[2023.10.01-15.27.38:573][537]AssetCheck: New page: Asset Save: PCB_holderBP
+[2023.10.01-15.27.38:573][537]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Soldering_station/PCB_holder/PCB_holderBP.PCB_holderBP
+[2023.10.01-15.27.39:952][617]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.27.39:963][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.27.39:963][617]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:27:39 am)
+[2023.10.01-15.27.39:963][617]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.27.40:031][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067694s)
+[2023.10.01-15.27.40:031][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.067756s)
+[2023.10.01-15.27.40:031][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.27.40:031][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.27.40:031][617]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.27.40:032][617]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2023.10.01-15.27.40:058][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.10.01-15.27.40:061][617]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.01-15.27.40:061][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.27.40:061][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.27.40:061][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.27.40:061][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.27.40:061][617]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.27.40:061][617]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.27.40:061][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.27.40:061][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.27.40:062][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.27.40:062][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.27.40:062][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.27.40:064][617]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.27.40:081][617]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.27.40:081][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.27.40:081][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.27.40:081][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.27.40:082][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.01-15.27.40:082][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.01-15.27.40:084][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.01-15.27.40:084][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.01-15.27.40:084][617]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.01-15.27.40:084][617]LogAudio: Display: Audio Device (ID: 13) registered with world 'VRTemplateMap'.
+[2023.10.01-15.27.40:084][617]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.01-15.27.40:128][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.27.40:318][617]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.27.40:343][617]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.27.40
+[2023.10.01-15.27.40:344][617]LogWorld: Bringing up level for play took: 0.025750
+[2023.10.01-15.27.40:346][617]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.10.01-15.27.40:349][617]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.27.40:353][617]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.27.40:356][617]vr.PixelDensity = "1"
+[2023.10.01-15.27.40:364][617]PIE: Server logged in
+[2023.10.01-15.27.40:370][617]PIE: Play in editor total start time 0.408 seconds.
+[2023.10.01-15.27.40:502][617]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.27.40:558][617]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.27.44:188][913]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.28.34:146][ 74]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.28.34:146][ 74]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.28.34:146][ 74]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.28.34:148][ 74]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.28.34:167][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.28.34:238][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.28.34:253][ 74]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.28.34:253][ 74]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.28.34:255][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.10.01-15.28.34:259][ 74]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.28.34:325][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065866s)
+[2023.10.01-15.28.34:325][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.065926s)
+[2023.10.01-15.28.34:325][ 74]LogAudio: Display: Audio Device (ID: 13) registered with world 'VRTemplateMap'.
+[2023.10.01-15.28.34:325][ 74]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.28.34:325][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.28.34:326][ 74]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.28.34:326][ 74]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2023.10.01-15.28.34:326][ 74]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.28.34:343][ 74]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.28.34
+[2023.10.01-15.28.34:344][ 74]LogWorld: Bringing up level for play took: 0.017138
+[2023.10.01-15.28.34:346][ 74]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.28.34:348][ 74]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.28.34:351][ 74]vr.PixelDensity = "1"
+[2023.10.01-15.28.34:351][ 74]LogLoad: Took 0.205194 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2023.10.01-15.28.38:140][301]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.31.33:159][163]LogNet: Browse: /Game/VRTemplate/Maps/testingMap
+[2023.10.01-15.31.33:159][163]LogLoad: LoadMap: /Game/VRTemplate/Maps/testingMap
+[2023.10.01-15.31.33:159][163]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.31.33:160][163]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.31.33:180][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.31.33:248][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.31.33:260][163]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.31.33:260][163]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.31.33:263][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.10.01-15.31.33:397][163]LogAudio: Display: Audio Device (ID: 13) registered with world 'testingMap'.
+[2023.10.01-15.31.33:398][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.31.33:398][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.31.33:398][163]LogAIModule: Creating AISystem for world testingMap
+[2023.10.01-15.31.33:398][163]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2023.10.01-15.31.33:399][163]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/TMHighTechPack1/HighTech/meshes/VirtualHeadset01/SM_VirtualHeadset01Base.SM_VirtualHeadset01Base being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/TMHighTechPack1/HighTech/meshes/VirtualHeadset01/SM_VirtualHeadset01Left.SM_VirtualHeadset01Left being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/TMHighTechPack1/HighTech/meshes/VirtualHeadset01/SM_VirtualHeadset01Right.SM_VirtualHeadset01Right being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/CoralRocks_CoralRock2_SM.CoralRocks_CoralRock2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/CoralRocks_CoralRock3_SM.CoralRocks_CoralRock3_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/CoralRocks_CoralRock4_SM.CoralRocks_CoralRock4_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral2_1_SM.Corals_Coral2_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral3_1_SM.Corals_Coral3_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral4_1_SM.Corals_Coral4_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral4_2_SM.Corals_Coral4_2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral5_1_SM.Corals_Coral5_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral6_1_SM.Corals_Coral6_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral7_1_SM.Corals_Coral7_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral7_2_SM.Corals_Coral7_2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_13_2_SM.Corals_Coral_13_2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_15_1_SM.Corals_Coral_15_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_15_2_SM.Corals_Coral_15_2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_15_3_SM.Corals_Coral_15_3_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_16_1_SM.Corals_Coral_16_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_16_2_SM.Corals_Coral_16_2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_3_1_SM.Corals_Coral_3_1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Corals_Coral_3_2_SM.Corals_Coral_3_2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral1_G3_SM.CoralGroups_Coral1_G3_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral3_G2_SM.CoralGroups_Coral3_G2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral4_G1_SM.CoralGroups_Coral4_G1_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral4_G2_SM.CoralGroups_Coral4_G2_SM being ready before playing
+[2023.10.01-15.31.33:417][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral6_G1_SM.CoralGroups_Coral6_G1_SM being ready before playing
+[2023.10.01-15.31.33:418][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral9_G2_SM.CoralGroups_Coral9_G2_SM being ready before playing
+[2023.10.01-15.31.33:418][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral_16_G2_SM.CoralGroups_Coral_16_G2_SM being ready before playing
+[2023.10.01-15.31.33:418][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral_16_G3_SM.CoralGroups_Coral_16_G3_SM being ready before playing
+[2023.10.01-15.31.33:418][163]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Corals/Meshes/Grouped/CoralGroups_Coral_3_G12_SM.CoralGroups_Coral_3_G12_SM being ready before playing
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning: Material /Game/Soldering_station/Projector/Material__32.Material__32 missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning: Material /Game/Soldering_station/Projector/Material__33.Material__33 missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning: Material /Game/Soldering_station/Projector/Material__35.Material__35 missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning: Material /Game/Soldering_station/Projector/Material__36.Material__36 missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning: Material /Game/Soldering_station/Projector/Material__37.Material__37 missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning: Material /Game/Soldering_station/Projector/Material__38.Material__38 missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2023.10.01-15.31.33:423][163]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.10.01-15.31.33:428][163]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_testingMap.testingMap up for play (max tick rate 0) at 2023.10.01-23.31.33
+[2023.10.01-15.31.33:428][163]LogWorld: Bringing up level for play took: 0.008557
+[2023.10.01-15.31.33:431][163]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.31.33:434][163]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.31.33:436][163]vr.PixelDensity = "1"
+[2023.10.01-15.31.33:436][163]LogLoad: Took 0.276671 seconds to LoadMap(/Game/VRTemplate/Maps/testingMap)
+[2023.10.01-15.31.33:588][163]LogChaos: Display: Input trimesh contains 12 bad triangles.
+[2023.10.01-15.31.33:599][163]LogChaos: Display: Input trimesh contains 228 bad triangles.
+[2023.10.01-15.31.33:609][163]LogChaos: Display: Input trimesh contains 24 bad triangles.
+[2023.10.01-15.31.33:617][163]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: ================================================
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: Total job queries 94, among them cache hits 8 (8.51%)
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 66 distinct outputs (76.74%)
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: RAM used: 2.99 MiB of 1.60 GiB budget. Usage: 0.18%
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.01-15.31.33:714][164]LogShaderCompilers: Display: ================================================
+[2023.10.01-15.31.33:750][165]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-15.32.10:529][493]LogNet: Browse: /Game/VRTemplate/Maps/endMap
+[2023.10.01-15.32.10:529][493]LogLoad: LoadMap: /Game/VRTemplate/Maps/endMap
+[2023.10.01-15.32.10:529][493]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_testingMap
+[2023.10.01-15.32.10:530][493]LogWorld: UWorld::CleanupWorld for testingMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.32.10:535][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.32.10:593][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.32.10:597][493]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.32.10:597][493]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.32.10:598][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.01-15.32.10:756][493]LogAudio: Display: Audio Device (ID: 13) registered with world 'endMap'.
+[2023.10.01-15.32.10:756][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.32.10:756][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.32.10:757][493]LogAIModule: Creating AISystem for world endMap
+[2023.10.01-15.32.10:757][493]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2023.10.01-15.32.10:757][493]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.32.10:771][493]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/BrutalistLevelKit/Models/Structure/Buildings/Room1/SM_Room1_Wall_Window1.SM_Room1_Wall_Window1 being ready before playing
+[2023.10.01-15.32.10:771][493]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/BrutalistLevelKit/Models/Structure/Buildings/Doors/SM_Door_Basic3.SM_Door_Basic3 being ready before playing
+[2023.10.01-15.32.10:771][493]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/BrutalistLevelKit/Models/Props/Furnitures/SM_Office_Chair.SM_Office_Chair being ready before playing
+[2023.10.01-15.32.10:771][493]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Soldering_station/Projector/radio/SM_rest_area_radio.SM_rest_area_radio being ready before playing
+[2023.10.01-15.32.10:771][493]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Soldering_station/Projector/Name_dispaly_End/Assessment_EndMap/SM_desk_props_pencil.SM_desk_props_pencil being ready before playing
+[2023.10.01-15.32.10:781][493]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_endMap.endMap up for play (max tick rate 0) at 2023.10.01-23.32.10
+[2023.10.01-15.32.10:781][493]LogWorld: Bringing up level for play took: 0.009209
+[2023.10.01-15.32.10:784][493]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.32.10:786][493]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.32.10:788][493]vr.PixelDensity = "1"
+[2023.10.01-15.32.10:788][493]LogLoad: Took 0.258705 seconds to LoadMap(/Game/VRTemplate/Maps/endMap)
+[2023.10.01-15.32.25:660][421]LogNet: Browse: /Game/VRTemplate/Maps/finalMap
+[2023.10.01-15.32.25:660][421]LogLoad: LoadMap: /Game/VRTemplate/Maps/finalMap
+[2023.10.01-15.32.25:660][421]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_endMap
+[2023.10.01-15.32.25:661][421]LogWorld: UWorld::CleanupWorld for endMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.32.25:662][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.32.25:722][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.32.25:724][421]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.32.25:724][421]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.32.25:726][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.10.01-15.32.25:811][421]LogAudio: Display: Audio Device (ID: 13) registered with world 'finalMap'.
+[2023.10.01-15.32.25:811][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.32.25:811][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.32.25:811][421]LogAIModule: Creating AISystem for world finalMap
+[2023.10.01-15.32.25:811][421]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2023.10.01-15.32.25:812][421]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.32.25:821][421]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_finalMap.finalMap up for play (max tick rate 0) at 2023.10.01-23.32.25
+[2023.10.01-15.32.25:821][421]LogWorld: Bringing up level for play took: 0.005464
+[2023.10.01-15.32.25:823][421]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.32.25:826][421]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.32.25:827][421]vr.PixelDensity = "1"
+[2023.10.01-15.32.25:827][421]LogLoad: Took 0.166557 seconds to LoadMap(/Game/VRTemplate/Maps/finalMap)
+[2023.10.01-15.33.01:749][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.33.01:749][328]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_finalMap
+[2023.10.01-15.33.01:777][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:778][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:778][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:780][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:780][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:781][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:781][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:781][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:782][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:782][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:783][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:786][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.01:920][328]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.33.01:924][328]LogWorld: UWorld::CleanupWorld for finalMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.33.01:927][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.33.01:932][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.33.01:938][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.33.01:967][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.33.01:968][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.01-15.33.01:968][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.01-15.33.01:971][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.01-15.33.01:998][328]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.33.01:998][328]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.33.02:001][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.10.01-15.33.02:093][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:093][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:094][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:094][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:095][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:095][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:095][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:096][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:096][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:097][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:097][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:097][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:100][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.33.02:136][329]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.10.01-15.33.09:105][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.10.01-15.33.09:247][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.33.09:357][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.01-15.33.09:558][730]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.33.09:559][730]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/VRTemplateMap895E36B144938FF7777F87BFE9FBA503.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.01-15.33.09:571][730]LogFileHelpers: No new changes to save!
+[2023.10.01-15.33.09:571][730]LogFileHelpers: Saving map 'VRTemplateMap' took 0.240
+[2023.10.01-15.33.09:584][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 336 ms (total: 2.79 sec)
+[2023.10.01-15.33.09:592][730]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.01-15.33.09:593][730]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
