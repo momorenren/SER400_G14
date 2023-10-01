@@ -2834,3 +2834,327 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.01-15.13.01:816][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 1.33 sec)
 [2023.10.01-15.13.01:825][900]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.10.01-15.13.01:825][900]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.01-15.13.46:723][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:724][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:724][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:724][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:726][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:726][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:726][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:726][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:727][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:727][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:727][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:728][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:729][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.46:763][182]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.01-15.13.47:023][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.13.49:723][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:723][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:723][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:724][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:724][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:725][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:726][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:726][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:726][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:727][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:879][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.49:880][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:276][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:276][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:277][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:277][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:278][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:278][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:278][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:278][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:279][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:279][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:279][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:280][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.13.51:281][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.05:430][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.14.05:548][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.10.01-15.14.05:748][864]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.14.05:748][864]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/VRTemplateMap6B95E52E4329E5327BB0BD9B418F01D7.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.01-15.14.05:760][864]LogFileHelpers: No new changes to save!
+[2023.10.01-15.14.05:760][864]LogFileHelpers: Saving map 'VRTemplateMap' took 0.240
+[2023.10.01-15.14.05:773][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 343 ms (total: 1.67 sec)
+[2023.10.01-15.14.05:783][864]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.01-15.14.05:783][864]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.01-15.14.16:175][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:176][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:176][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:177][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:177][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:178][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:178][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:178][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:178][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:179][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.16:179][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.19:091][653]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.14.19:191][656]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64: 'C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64' is outside repository at 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2'
+[2023.10.01-15.14.19:998][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.14.21:405][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PCB/PCB_main.PCB_main
+[2023.10.01-15.14.21:405][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.14.21:406][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.15.02:058][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:058][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:058][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:059][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:059][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:059][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:059][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:061][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:061][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:061][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:062][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.02:062][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.15.03:334][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.15.04:986][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB
+[2023.10.01-15.15.04:987][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.15.04:987][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.16.31:597][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.16.31:698][353]LogSavePackage: Moving output files for package: /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB
+[2023.10.01-15.16.31:698][353]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/Tong_PCB0CFDDCE74842BFA5CB0267AAB4B2FE6A.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.uasset'
+[2023.10.01-15.16.31:712][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.78 sec)
+[2023.10.01-15.16.31:722][353]AssetCheck: New page: Asset Save: Tong_PCB
+[2023.10.01-15.16.31:722][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Chemical_station/Tong_and_PCB/Tong/Tong_PCB.Tong_PCB
+[2023.10.01-15.16.41:189][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:190][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:190][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:191][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:191][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:191][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:192][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:192][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:192][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:193][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:193][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:193][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.41:195][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.16.42:879][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.16.45:641][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chemical_station/Tong_and_PCB/PCB_Plate/Chemical_input_plate.Chemical_input_plate
+[2023.10.01-15.16.45:641][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.16.45:641][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.16.58:171][809]LogViewport: Scene viewport resized to 1465x721, mode Windowed.
+[2023.10.01-15.16.58:302][810]LogViewport: Scene viewport resized to 1465x698, mode Windowed.
+[2023.10.01-15.18.06:082][730]BlueprintLog: New page: Compile Chemical_input_plate
+[2023.10.01-15.18.06:144][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.01-15.18.06:183][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.06:757][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.18.06:852][754]LogSavePackage: Moving output files for package: /Game/Chemical_station/Tong_and_PCB/PCB_Plate/Chemical_input_plate
+[2023.10.01-15.18.06:853][754]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/Chemical_input_plate56B3152944D693DD69971591D1AEB879.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/Chemical_station/Tong_and_PCB/PCB_Plate/Chemical_input_plate.uasset'
+[2023.10.01-15.18.06:867][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.89 sec)
+[2023.10.01-15.18.06:874][754]AssetCheck: New page: Asset Save: Chemical_input_plate
+[2023.10.01-15.18.06:874][754]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Chemical_station/Tong_and_PCB/PCB_Plate/Chemical_input_plate.Chemical_input_plate
+[2023.10.01-15.18.08:200][833]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.18.08:211][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.18.08:211][833]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:18:08 am)
+[2023.10.01-15.18.08:211][833]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.18.08:271][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060182s)
+[2023.10.01-15.18.08:271][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.060222s)
+[2023.10.01-15.18.08:271][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.18.08:271][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.18.08:272][833]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.18.08:272][833]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2023.10.01-15.18.08:299][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.01-15.18.08:301][833]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.01-15.18.08:301][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.18.08:301][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.18.08:301][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.18.08:301][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.18.08:301][833]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.18.08:302][833]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.18.08:302][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.18.08:302][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.18.08:302][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.18.08:302][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.18.08:302][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.18.08:305][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.18.08:322][833]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.18.08:322][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.18.08:322][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.18.08:322][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.18.08:322][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.10.01-15.18.08:322][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.10.01-15.18.08:324][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.10.01-15.18.08:324][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.10.01-15.18.08:324][833]LogInit: FAudioDevice initialized with ID 10.
+[2023.10.01-15.18.08:324][833]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2023.10.01-15.18.08:324][833]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.01-15.18.08:370][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.18.08:559][833]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.18.08:598][833]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.18.08
+[2023.10.01-15.18.08:600][833]LogWorld: Bringing up level for play took: 0.041076
+[2023.10.01-15.18.08:604][833]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.10.01-15.18.08:606][833]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.18.08:608][833]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.18.08:612][833]vr.PixelDensity = "1"
+[2023.10.01-15.18.08:622][833]PIE: Server logged in
+[2023.10.01-15.18.08:627][833]PIE: Play in editor total start time 0.416 seconds.
+[2023.10.01-15.18.08:767][833]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.18.08:795][833]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.18.12:423][183]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.18.12:508][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.18.12:508][187]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.18.12:532][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:533][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:533][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:534][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:534][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:534][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:535][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:535][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:536][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:536][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:536][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:538][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:539][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:622][187]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.18.12:628][187]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.18.12:645][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.18.12:717][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.18.12:726][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.18.12:760][187]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-15.18.12:760][187]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.01-15.18.12:760][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.01-15.18.12:762][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.01-15.18.12:788][187]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.18.12:788][187]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.18.12:791][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.01-15.18.12:860][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:860][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:861][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:861][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:862][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:862][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:862][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:862][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:863][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:863][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:863][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:865][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:866][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.12:915][188]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.10.01-15.18.20:167][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:167][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:168][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:168][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:168][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:168][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:168][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:169][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:169][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:169][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.20:198][620]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.18.28:072][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-15.18.28:188][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.01-15.18.28:379][ 77]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.01-15.18.28:380][ 77]LogSavePackage: Moving 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Saved/VRTemplateMap77120C534E13D6ECF9BB51A8F6BEBCFF.tmp' to 'D:/uniCourse_BachEng/Year4/SER400 Virtual and Augmented Interfaces/Yang VR/YangGitHubV2/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.01-15.18.28:391][ 77]LogFileHelpers: No new changes to save!
+[2023.10.01-15.18.28:391][ 77]LogFileHelpers: Saving map 'VRTemplateMap' took 0.229
+[2023.10.01-15.18.28:401][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 330 ms (total: 2.22 sec)
+[2023.10.01-15.18.28:410][ 77]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.01-15.18.28:410][ 77]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.01-15.18.29:231][126]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.01-15.18.29:242][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-15.18.29:242][126]PIE: New page: PIE session: VRTemplateMap (2 Oct 2023, 7:18:29 am)
+[2023.10.01-15.18.29:242][126]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.18.29:297][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055138s)
+[2023.10.01-15.18.29:297][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.055171s)
+[2023.10.01-15.18.29:297][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-15.18.29:297][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.01-15.18.29:298][126]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.01-15.18.29:298][126]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.10.01-15.18.29:320][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.01-15.18.29:321][126]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.10.01-15.18.29:321][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-15.18.29:321][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-15.18.29:321][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-15.18.29:321][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-15.18.29:321][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-15.18.29:321][126]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-15.18.29:321][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-15.18.29:322][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-15.18.29:322][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-15.18.29:322][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-15.18.29:322][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-15.18.29:324][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-15.18.29:341][126]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.01-15.18.29:341][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-15.18.29:341][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-15.18.29:341][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-15.18.29:342][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.10.01-15.18.29:342][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.10.01-15.18.29:344][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.10.01-15.18.29:344][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.10.01-15.18.29:344][126]LogInit: FAudioDevice initialized with ID 11.
+[2023.10.01-15.18.29:344][126]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2023.10.01-15.18.29:344][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.01-15.18.29:387][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.18.29:573][126]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.01-15.18.29:596][126]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.01-23.18.29
+[2023.10.01-15.18.29:597][126]LogWorld: Bringing up level for play took: 0.023520
+[2023.10.01-15.18.29:599][126]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.01-15.18.29:601][126]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.01-15.18.29:603][126]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.18.29:607][126]vr.PixelDensity = "1"
+[2023.10.01-15.18.29:615][126]PIE: Server logged in
+[2023.10.01-15.18.29:618][126]PIE: Play in editor total start time 0.376 seconds.
+[2023.10.01-15.18.29:769][126]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.01-15.18.29:793][126]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.01-15.18.33:418][476]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'bgd_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.01-15.19.12:338][  7]LogShaderCompilers: Display: ================================================
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: Total job queries 61, among them cache hits 4 (6.56%)
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 40 distinct outputs (70.18%)
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: RAM used: 2.02 MiB of 1.60 GiB budget. Usage: 0.12%
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.01-15.19.12:339][  7]LogShaderCompilers: Display: ================================================
+[2023.10.01-15.19.12:358][  8]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.01-15.20.15:997][417]LogDerivedDataCache: C:/Users/abc12/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.166 and deleted 76 files with total size 3 MiB and 68 empty folders. Scanned 29915 files in 31597 folders with total size 2408 MiB.
+[2023.10.01-15.20.18:508][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-15.20.18:508][638]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.01-15.20.18:530][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:531][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:531][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:531][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:532][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:532][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:533][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:533][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:535][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:535][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:535][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:538][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:611][638]LogSlate: Window 'SER400_G14_DIY_PCB Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.01-15.20.18:619][638]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-15.20.18:648][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.20.18:680][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-15.20.18:691][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-15.20.18:727][638]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.01-15.20.18:727][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.01-15.20.18:730][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.01-15.20.18:761][638]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.01-15.20.18:761][638]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.01-15.20.18:764][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.01-15.20.18:861][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:862][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:863][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:864][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:864][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:865][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:866][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:866][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:867][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:868][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:868][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:873][638]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-15.20.18:936][639]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.01-15.20.25:998][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
